@@ -1,4 +1,12 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Ropa+Sans&display=swap');
+
+
+body {
+    font-family: 'Ropa Sans', sans-serif;
+    font-size: 200px;
+}
+
 /* ----------------------------> navbar */
 
 .navbar-nav {
@@ -12,9 +20,10 @@
 
 .navbar {
     position: fixed;
+    margin: 0; 
     border: 0;
     background-color: rgba(0,0,0, 0.5);
-    z-index: 1;
+    z-index: 10;
 }
 
 .navbar .navbar-toggler {
@@ -46,8 +55,15 @@
 
 .text-boxed {
   background: rgb(255, 255, 255, .7);
-  padding: 0;
-  margin: 200px 200px 40px 45px;
   word-wrap: break-word;
   text-align: center;
+  overflow: hidden;
+  position: absolute;
+  top: 250px;
+  left: 50px;
+  right: 300px;
 }
+
+
+
+
