@@ -119,10 +119,7 @@
     box-shadow:  0 0 0 1px #ca5b4c;  
     } 
 
-.font-toggler {
-    font-size: 1.5em;
+#font-toggler:hover  {
+    color: #ca5b4c !important; 
 }
 
-.font-toggler:hover  {
-    color: #ca5b4c; 
-}
