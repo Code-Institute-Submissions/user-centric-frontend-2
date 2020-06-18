@@ -1,7 +1,11 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 /* ----------------------------> navbar */
+
+body {
+    font-family: 'Alegreya sans', sans-serif;
+}
 
 .navbar-nav {
     margin-bottom: 20px;
@@ -28,15 +32,6 @@
     text-transform: uppercase;
 }
 
-.navbar .navbar-toggler {
-    border: none; 
-}
-
-.navbar-toggler:active,
-.navbar-toggler:focus  {    
-    outline: none; 
-    box-shadow:  0 0 0 1px white;  
-    } 
 
 /* ----------------------------> background-images */
 
@@ -47,15 +42,14 @@
   background-size: cover;
 }
 
-/* ----------------------------> text-box on home */
+/* ----------------------------> text-box on start */
 
-   .info-row {
+.info-row {
     position: fixed;
     top: 300px;
     right: 10px;
     
    }
-
 
 .text-boxed {
   background: rgb(255, 255, 255, .7);
@@ -65,12 +59,17 @@
   padding-top: 10px;
   font-weight: 500;
   font-size: 17px;
-  font-family: Alegreya Sans;
+  box-shadow: 2px 3px 21px 6px rgba(0,0,0,0.6);
 }
 
 #info-p {
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#info-header {
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 2px;
 }
 
 /* ----------------------------> buttons */
@@ -98,13 +97,23 @@
 
 #contact-btn:hover {
     background-color: #ca5b4c;
-    border-radius: 0px;
+        border-radius: 0px;
 }
 
 #contact-btn:active,
 #contact-btn:focus {
     box-shadow: none;
 }
+
+.navbar .navbar-toggler {
+    border: none; 
+}
+
+.navbar-toggler:active,
+.navbar-toggler:focus  {    
+    outline: none; 
+    box-shadow:  0 0 0 1px white;  
+    } 
 
 .navbar-dark .navbar-toggler-icon {
     color: white;
