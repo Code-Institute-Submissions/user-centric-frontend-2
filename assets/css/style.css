@@ -1,19 +1,16 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;1,700&display=swap');
 /* ----------------------------> navbar */
 
-body {
-    font-family: 'Alegreya sans', sans-serif;
+ * {
+ font-family: 'Fira Sans', sans-serif;
 }
+
 
 .navbar-nav {
     margin-bottom: 20px;
     font-weight: 500;
-}
-
-.navbar-toggler:hover {
-    background:rgba(0,0,0, .4);
 }
 
 .navbar {
@@ -22,14 +19,19 @@ body {
     border: 0;
     background-color: rgba(0,0,0, 0.5);
     z-index: 2;
+    font-family: 'Lato', sans-serif;
 }
 
 .navbar-brand {
     text-shadow: 2px 2px black;
+    padding-top: 0;
+    padding-bottom: 0;
+    font-size: 1.7em;
+    font-weight: bold;
 }
 
-.nav-link {
-    text-transform: uppercase;
+.nav-link:hover {
+    font-weight: bold;
 }
 
 
@@ -60,6 +62,8 @@ body {
   font-weight: 500;
   font-size: 17px;
   box-shadow: 2px 3px 21px 6px rgba(0,0,0,0.6);
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
 #info-p {
@@ -68,8 +72,8 @@ body {
 }
 
 #info-header {
-    font-family: 'Bebas Neue', cursive;
-    letter-spacing: 2px;
+    font-weight: bold;
+    text-transform: uppercase;
 }
 
 /* ----------------------------> buttons */
@@ -112,13 +116,13 @@ body {
 .navbar-toggler:active,
 .navbar-toggler:focus  {    
     outline: none; 
-    box-shadow:  0 0 0 1px white;  
+    box-shadow:  0 0 0 1px #ca5b4c;  
     } 
-
-.navbar-dark .navbar-toggler-icon {
-    color: white;
-}
 
 .font-toggler {
     font-size: 1.5em;
+}
+
+.font-toggler:hover  {
+    color: #ca5b4c; 
 }
