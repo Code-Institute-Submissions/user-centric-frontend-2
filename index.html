@@ -14,55 +14,78 @@
 </head>
 
 <body>
-<div id="home-image1">
+    <div id="home-image1">
+        <!---nav-->
+        <!--copied navbar from this site and I did some modifications: https://startbootstrap.com/snippets/navbar-logo/-->
+        <nav class="navbar navbar-expand-sm navbar-transparent navbar-dark">
+            <div class="container">
+                <a class="navbar-brand" href="#">Amai Aikido</a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" 
+                    aria-expanded="false" aria-label="Toggle navigation">
+                        <span><i class="fas fa-bars" id="font-toggler"> </i></span>  <!--copied the code for font-toggler https://stackoverflow.com/questions/42586729/bootstrap-4-change-hamburger-toggler-color-->
+                    </button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav ml-auto">
+                        <li class="nav-item active">
+                            <a class="nav-link" href="#">Start</a>
+                        </li>
+                        <li class="nav-item active">
+                            <a class="nav-link" href="#">Schedule</a>
+                        </li>
+                        <li class="nav-item active">
+                            <a class="nav-link" href="#">Pricing</a>
+                        </li>
+                        <li class="nav-item active">
+                            <a class="nav-link" href="#">Contact</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
 
-<!---nav-->
-<!--copied navbar from this site and I did some modifications: https://startbootstrap.com/snippets/navbar-logo/-->
-    <nav class="navbar navbar-expand-sm navbar-transparent navbar-dark">
-  <div class="container">
-    <a class="navbar-brand" href="#">Amai Aikido
-        </a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" 
-    aria-expanded="false" aria-label="Toggle navigation">
-          <span><i class="fas fa-bars" id="font-toggler" style="color:#fff; font-size:28px;"> </i></span>  <!--copied the code for font-toggler https://stackoverflow.com/questions/42586729/bootstrap-4-change-hamburger-toggler-color-->
-        </button>
-    <div class="collapse navbar-collapse" id="navbarResponsive">
-        <ul class="navbar-nav ml-auto">
-            <li class="nav-item active">
-          <a class="nav-link" href="#">Start</a>
-        </li>
-            <li class="nav-item active">
-          <a class="nav-link" href="#">Schedule</a>
-        </li>
-            <li class="nav-item active">
-          <a class="nav-link" href="#">Pricing</a>
-        </li>
-            <li class="nav-item active">
-          <a class="nav-link" href="#">Contact</a>
-        </li>
-      </ul>
-    </div>
-  </div>
+        <div class="container">
+            <div class="row info-row"> 
+                <div class="col-xs-12 col-md-6 col-lg-5 text-boxed animate__animated animate__fadeInLeft animate__slower">
+                    <h5 id="info-header">Practise Aikido!</h5>
+                        <p id="info-p">Are you interested in exercising something different? With us at Amai Aikido you can increase your fitness, coordination while 
+                            learning how to protect yourself. Come try out aikido with us,
+                            the first 3 training sessions are for free!
+                            <br>
+                            <br>  
+                            <strong>Take the chance to develop - practice aikido.</strong> 
+                        </p>
+                        <div><pre><button type="button" class="btn btn-success" id="schedule-btn">Schedule</button> <button type="button" class="btn btn-success" id="contact-btn">Contact</button></pre></div>
+                </div>
+            </div>
+        </div>
+    </div>  <!--end home-image-->
 
-</nav>
-   
-<div class="container">
-   <div class="row info-row"> 
-      <div class="col-xs-12 col-md-6 col-lg-5 text-boxed animate__animated animate__fadeInLeft animate__slower">
-        <h5 id="info-header">Practise Aikido!</h5>
-        <p id="info-p">Are you interested in exercising something different? With us at Amai Aikido you can increase your fitness, coordination while 
-  learning how to protect yourself. Come try out aikido with us,
-  the first 3 training sessions are for free!
-  <br>
-      <br>  
-        <strong>Take the chance to develop - practice aikido.</strong> 
-        </p>
-        <div><pre><button type="button" class="btn btn-success" id="schedule-btn">Schedule</button>  <button type="button" class="btn btn-success" id="contact-btn">Contact</button> </pre> </div>
-     </div>
-  </div>
-</div>
-
-</div>
+    <section>
+        <div id="about-section">&nbsp;
+            <div class="containter">
+                <div class="row justify-content-between">
+                    <div class="col-4">
+                        <h3>What is needed?</h3>
+                            <p>No special equipment is needed for the first time. You can work out in long exercise pants and a t-shirt. We train all the techniques on both the right and left sides for a smooth workout of the body. A great focus is on training techniques, but the workouts should also be physically challenging. Interested? Come and try it out!</p>
+                    </div>
+                    <div class="col-4">
+                        <h3>The Dojo</h3>
+                            <p>Our dojo is located on the second floor at Banvallsvagen 4B, 234 20, Callao Salvaje with entrance from the courtyard. The room has two carpet areas, one large of 300 sqm and one smaller of 100 sqm, gym, fresh changing rooms, kitchenette and nice social areas.</p>    
+                    </div>
+                <div class="row justify-content-between">
+                    <div class="col-4">
+                        <h3>Instructurs</h3>
+                            <p>Ichiro Shishiya Sensei 7 dan, began training for Nishio Sensei at age 15 after many years of judo training. He currently has several dojos around Tokyo. Shishiya Sensei holds seminars at several locations around Europe including with us in Malmö. John Johnsson 4 Dan Eric Ericsson 1 Dan</p>
+                    </div>
+                    <div class="col-4">
+                        <h3>Aikido</h3>
+                            <p>The art was developed by Morihei Ueshiba in 1922. The movements consist of a variety of circular movements and spirals. It is important not to block the force of the attack, but instead to harmonize with the movement and pass on the opponent's power. There are no stands, one is in a quiet, natural position. Unlike many other martial arts and sports, Aikido has no competition moments. </p>
+                    </div>
+                </div>
+                </div>
+            </div>       
+        </div>
+    </section>
 
        
 

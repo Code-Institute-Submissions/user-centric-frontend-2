@@ -49,14 +49,15 @@
 /* ----------------------------text-box on start */
 
 .info-row {
-    position: fixed;
-    top: 300px;
+    position: relative;
+    top: 120px;
     right: 10px;
-    
+    padding: 0;
+    margin: 0;
    }
 
 .text-boxed {
-  background: rgb(255, 255, 255, .7);
+  background: rgba(211, 94, 73, 0.755);
   word-wrap: break-word;
   text-align: center;
   overflow: hidden;
@@ -65,6 +66,8 @@
   font-size: 17px;
   margin-left: 50px;
   margin-right: 50px;
+  margin-bottom: 10px;
+  color: white;
 }
 
 #info-p {
@@ -77,6 +80,9 @@
     text-transform: uppercase;
     font-display: "Fira Sans', sans-serif";
     letter-spacing: 1px;
+    color: #1c1a1a; 
+
+
 }
 
 /* ----------------------------buttons */
@@ -87,6 +93,7 @@
     border-radius: 0px;
     font-family:'Fira Sans', sans-serif;
     color: white;
+    letter-spacing: 1px;
 }
 
 #schedule-btn {
@@ -120,7 +127,23 @@
     outline: none; 
     box-shadow:  0 0 0 1px #ca5b4c;  
     } 
+
+#font-toggler { 
+    color: #fff; 
+    font-size: 28px;
+}
      
 #font-toggler:hover  {
     color: #ca5b4c !important; 
 }
+
+
+/* ----------------------------about */
+
+#about-section {
+    background: url("../images/textcut.png") no-repeat center center;
+    background-attachment: fixed;
+    background-color: white;
+    background-blend-mode: multiply;
+}
+
