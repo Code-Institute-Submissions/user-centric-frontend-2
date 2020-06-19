@@ -1,7 +1,7 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;1,700&display=swap');
-/* ----------------------------> navbar */
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap'); 
+
+/* ----------------------------navbar */
 
  * {
  font-family: 'Fira Sans', sans-serif;
@@ -9,33 +9,35 @@
 
 
 .navbar-nav {
-    margin-bottom: 20px;
-    font-weight: 500;
+    font-weight: 700;
+}
+
+.navbar-nav li{
+  padding-left:8px;
 }
 
 .navbar {
     position: fixed;
     margin: 0; 
     border: 0;
-    background-color: rgba(0,0,0, 0.5);
     z-index: 2;
-    font-family: 'Lato', sans-serif;
+    color: white;
 }
 
 .navbar-brand {
     text-shadow: 2px 2px black;
-    padding-top: 0;
-    padding-bottom: 0;
-    font-size: 1.7em;
+    font-size: 1.5em !important;
     font-weight: bold;
+    letter-spacing: 1px;
+
 }
 
 .nav-link:hover {
-    font-weight: bold;
+    color: rgb(233, 233, 233) !important;
 }
 
 
-/* ----------------------------> background-images */
+/* ---------------------------background-images */
 
 #home-image1 {
   height: 100vh;
@@ -44,7 +46,7 @@
   background-size: cover;
 }
 
-/* ----------------------------> text-box on start */
+/* ----------------------------text-box on start */
 
 .info-row {
     position: fixed;
@@ -61,7 +63,6 @@
   padding-top: 10px;
   font-weight: 500;
   font-size: 17px;
-  box-shadow: 2px 3px 21px 6px rgba(0,0,0,0.6);
   margin-left: 50px;
   margin-right: 50px;
 }
@@ -74,34 +75,35 @@
 #info-header {
     font-weight: bold;
     text-transform: uppercase;
+    font-display: "Fira Sans', sans-serif";
+    letter-spacing: 1px;
 }
 
-/* ----------------------------> buttons */
+/* ----------------------------buttons */
 
 #schedule-btn, 
 #contact-btn {
     border: none;
     border-radius: 0px;
+    font-family:'Fira Sans', sans-serif;
+    color: white;
 }
 
 #schedule-btn {
-    color: white;
     background-color: #654a4e;
 }
 
 #schedule-btn:hover {
     background-color: rgb(134, 70, 80);
-    border-radius: 0px;
 }
 
 #contact-btn {
-    color: white;
     background-color: #994438d8;
 }
 
 #contact-btn:hover {
     background-color: #ca5b4c;
-        border-radius: 0px;
+    border-radius: 0px;
 }
 
 #contact-btn:active,
@@ -118,8 +120,7 @@
     outline: none; 
     box-shadow:  0 0 0 1px #ca5b4c;  
     } 
-
+     
 #font-toggler:hover  {
     color: #ca5b4c !important; 
 }
-
