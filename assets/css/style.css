@@ -1,10 +1,11 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
 
 /* ----------------------------navbar */
 
  * {
- font-family: 'Fira Sans', sans-serif;
+ font-family:'Open Sans', sans-serif;
 }
 
 
@@ -28,6 +29,7 @@
     text-shadow: 2px 2px black;
     font-size: 1.5em !important;
     font-weight: bold;
+    font-family: 'Kaushan Script';
     letter-spacing: 1px;
 
 }
@@ -57,7 +59,7 @@
    }
 
 .text-boxed {
-  background: rgba(211, 94, 73, 0.755);
+  background: rgba(255, 255, 255, 0.863);
   word-wrap: break-word;
   text-align: center;
   overflow: hidden;
@@ -67,7 +69,7 @@
   margin-left: 50px;
   margin-right: 50px;
   margin-bottom: 10px;
-  color: white;
+  color: #2a2330;
 }
 
 #info-p {
@@ -78,11 +80,6 @@
 #info-header {
     font-weight: bold;
     text-transform: uppercase;
-    font-display: "Fira Sans', sans-serif";
-    letter-spacing: 1px;
-    color: #1c1a1a; 
-
-
 }
 
 /* ----------------------------buttons */
@@ -90,27 +87,25 @@
 #schedule-btn, 
 #contact-btn {
     border: none;
-    border-radius: 0px;
-    font-family:'Fira Sans', sans-serif;
+    font-family:'Open Sans', sans-serif;
     color: white;
-    letter-spacing: 1px;
+    font-weight: bold;
 }
 
 #schedule-btn {
-    background-color: #654a4e;
-}
-
-#schedule-btn:hover {
     background-color: rgb(134, 70, 80);
 }
 
+#schedule-btn:hover {
+    background-color:#654a4e;
+}
+
 #contact-btn {
-    background-color: #994438d8;
+    background-color: #ca5b4c;
 }
 
 #contact-btn:hover {
-    background-color: #ca5b4c;
-    border-radius: 0px;
+    background-color:  #994438d8;
 }
 
 #contact-btn:active,
