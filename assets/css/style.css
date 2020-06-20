@@ -6,6 +6,7 @@
 
  * {
  font-family:'Open Sans', sans-serif;
+ color: #3e2944;
 }
 
 
@@ -22,7 +23,7 @@
     margin: 0; 
     border: 0;
     z-index: 2;
-    color: white;
+    color: whitesmoke;
 }
 
 .navbar-brand {
@@ -31,6 +32,7 @@
     font-weight: bold;
     font-family: 'Kaushan Script';
     letter-spacing: 1px;
+    color: whitesmoke;
 
 }
 
@@ -68,8 +70,6 @@
   font-size: 17px;
   margin-left: 50px;
   margin-right: 50px;
-  margin-bottom: 10px;
-  color: #2a2330;
 }
 
 #info-p {
@@ -79,37 +79,24 @@
 
 #info-header {
     font-weight: bold;
-    text-transform: uppercase;
 }
 
 /* ----------------------------buttons */
 
-#schedule-btn, 
-#contact-btn {
-    border: none;
+.info-btn {
+    border: #774f4f;
     font-family:'Open Sans', sans-serif;
-    color: white;
-    font-weight: bold;
+    background-color: #774f4f;
+    color: whitesmoke;
 }
 
-#schedule-btn {
-    background-color: rgb(134, 70, 80);
+.info-btn:hover {
+    background-color: whitesmoke;
+    color:#774f4f;
 }
 
-#schedule-btn:hover {
-    background-color:#654a4e;
-}
-
-#contact-btn {
-    background-color: #ca5b4c;
-}
-
-#contact-btn:hover {
-    background-color:  #994438d8;
-}
-
-#contact-btn:active,
-#contact-btn:focus {
+.info-btn:active,
+.info-btn:focus {
     box-shadow: none;
 }
 
@@ -120,17 +107,17 @@
 .navbar-toggler:active,
 .navbar-toggler:focus  {    
     outline: none; 
-    box-shadow:  0 0 0 1px #ca5b4c;  
-    } 
+    box-shadow:  0 0 0 1px #774f4f;  
+    }
+.navbar-toggler:hover {
+    background-color: #774f4f; 
+} 
 
 #font-toggler { 
-    color: #fff; 
+    color: whitesmoke; 
     font-size: 28px;
 }
-     
-#font-toggler:hover  {
-    color: #ca5b4c !important; 
-}
+
 
 
 /* ----------------------------about */
@@ -138,7 +125,27 @@
 #about-section {
     background: url("../images/textcut.png") no-repeat center center;
     background-attachment: fixed;
-    background-color: white;
+    background-color: whitesmoke;
     background-blend-mode: multiply;
 }
 
+
+.col-about-left,
+.col-about-right {
+    position: relative;
+    top: 30px;
+    padding-top: 30px;
+}
+
+.col-about-left {
+    position: relative;
+    left: 30px;
+}
+.col-about-right {
+    position: relative;
+    right: 30px;
+}
+
+h4 {
+text-align: center;
+}
