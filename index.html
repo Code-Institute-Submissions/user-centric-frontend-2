@@ -14,15 +14,14 @@
 </head>
 
 <body>
-    <div id="home-image1">
+    <div id="start-image">
         <!---nav-->
-        <!--copied navbar from this site and I did some modifications: https://startbootstrap.com/snippets/navbar-logo/-->
-        <nav class="navbar navbar-expand-sm navbar-transparent navbar-dark">
+        <nav class="navbar navbar-expand-sm navbar-transparent navbar-dark"> <!--copied navbar from this site and I did some modifications with it: https://startbootstrap.com/snippets/navbar-logo/-->
             <div class="container">
                 <a class="navbar-brand" href="#">Amai Aikido</a>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" 
                     aria-expanded="false" aria-label="Toggle navigation">
-                        <span><i class="fas fa-bars" id="font-toggler"> </i></span>  <!--copied the code for font-toggler https://stackoverflow.com/questions/42586729/bootstrap-4-change-hamburger-toggler-color-->
+                        <span><i class="fas fa-bars" id="font-toggler"> </i></span>  
                     </button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ml-auto">
@@ -46,7 +45,7 @@
         <div class="container">
             <div class="row info-row"> 
                 <div class="col-xs-12 col-md-6 col-lg-5 text-boxed animate__animated animate__fadeInLeft animate__slower">
-                    <h5 id="info-header">Practise Aikido!</h5>
+                    <h5 id="info-header"><strong>Practise Aikido!</strong></h5>
                         <p id="info-p">Are you interested in exercising something different? With us at Amai Aikido you can increase your fitness, coordination while 
                             learning how to protect yourself. Come try out aikido with us 3 times for free!
                             <br>
@@ -56,36 +55,52 @@
                         <div><pre><button type="button" class="btn btn-outline-light">Schedule</button> <button type="button" class="btn btn-outline-light">Contact</button></pre></div>
                 </div>
             </div>
-        </div>
-    </div>  <!--end home-image-->
+        </div> <!--end container-->
+    </div>  <!--start-image end-->
 
     <section>
-        <div id="about-section">&nbsp;
-            <div class="containter">
+        <div id="about-image">&nbsp;
+            <div class="containter home-container-padding">
                 <div class="row justify-content-between">
                     <div class="col-4 col-about-left">
-                        <h4>What is needed?</h4>
+                        <h5><strong>What is needed?</strong></h5>
                             <p>No special equipment is needed for the first time. You can work out in long exercise pants and a t-shirt. We train all the techniques on both the right and left sides for a smooth workout of the body. A great focus is on training techniques, but the workouts should 
                             also be physically challenging. Interested? Come and try it out!</p>
                     </div>
                     <div class="col-4 col-about-right">
-                        <h4>The Dojo</h4>
+                        <h5><strong>The Dojo</strong></h5>
                             <p>Our dojo is located on the second floor at Banvallsvagen 4B, 234 20, Callao Salvaje with entrance from the courtyard. The room has two carpet areas, one large of 300 sqm and one smaller of 100 sqm, gym, fresh changing rooms, kitchenette and nice social areas.</p>    
                     </div>
                 </div>    
                 <div class="row justify-content-between">
                     <div class="col-4 col-about-left">
-                        <h4>Instructurs</h4>
+                        <h5><strong>Instructurs</strong></h5>
                             <p>Ichiro Shishiya Sensei 7 dan, began training for Nishio Sensei at age 15 after many years of judo training. He currently has several dojos around Tokyo. Shishiya Sensei holds seminars at several locations around Europe including with us in Malmö. John Johnsson 4 Dan Eric Ericsson 1 Dan</p>
                     </div>
                     <div class="col-4 col-about-right">
-                        <h4>Aikido</h4>
-                            <p>The art was developed by Morihei Ueshiba in 1922. The movements consist of a variety of circular movements and spirals. It is important not to block the force of the attack, but instead to harmonize with the movement and pass on the opponent's power. There are no stands, one is in a quiet, natural position. Unlike many other martial arts and sports, Aikido has no competition moments. </p>
+                        <h5><strong>Aikido</strong></h5>
+                            <p>The art was developed by Morihei Ueshiba in 1922. The movements consist of a variety of circular movements and spirals. It is important not to block the force of the attack, but instead to harmonize with the movement and pass on the opponent's power. Unlike many other martial arts and sports, Aikido has no competition moments. </p>
                     </div>
                 </div>
-            </div>       
-        </div>
+            </div> <!--container end-->      
+        </div> <!--about-image end-->
     </section>
+
+    <section>
+        <div id="video-background-color">
+            <div class="container video-container-padding">
+                <div class="row justify-content-center">
+                        <div class="col-12 col-md-9 col-lg-8 embed-responsive embed-responsive-16by9" id="video">
+                            <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/vnbBNFwAqgs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+                            </iframe>  
+                        </div>
+                </div>
+            </div> <!--container end-->
+        </div> <!--video-background-color end-->
+
+    </section>
+
+   
 
        
 
