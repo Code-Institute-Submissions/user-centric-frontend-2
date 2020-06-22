@@ -2,13 +2,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
 
-/* ----------------------------navbar */
-
  * {
  font-family:'Open Sans', sans-serif;
  color: #3e2944;
 }
 
+h5 {
+text-align: center;
+}
+
+/* ----------------------------navbar */
 
 .navbar-nav {
     font-weight: 700;
@@ -43,11 +46,19 @@
 
 /* ---------------------------background-images */
 
-#home-image1 {
+#start-image {
   height: 100vh;
   background: url("../images/gray1.jpg") no-repeat center center;
   background-attachment: fixed;
   background-size: cover;
+}
+
+#about-image {
+    background-image: url("../images/graywhite.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+
 }
 
 /* ----------------------------text-box on start */
@@ -76,11 +87,6 @@
     padding-left: 20px;
     padding-right: 20px;
 }
-
-#info-header {
-    font-weight: bold;
-}
-
 /* ----------------------------buttons */
 
 .btn.btn-outline-light {
@@ -115,17 +121,10 @@
     font-size: 28px;
 }
 
-
-
 /* ----------------------------about */
-#about-image {
-    background-image: linear-gradient(rgba(255,255,255,0.9), /* I copied code for linear-gradient here: https://stackoverflow.com/questions/7241341/can-i-set-an-opacity-only-to-the-background-image-of-a-div*/
-     rgba(255,255,255,0.9)), url("../images/textcut.png");
-    width: 100%;
-    height: 100%;
-    background-repeat: no-repeat;
-    background-position: center;
 
+.home-container-padding {
+    padding-bottom: 200px;
 }
 
 .col-about-left,
@@ -137,14 +136,21 @@
 
 .col-about-left {
     position: relative;
-    left: 30px;
+    left: 45px;
 }
 .col-about-right {
     position: relative;
-    right: 30px;
+    right: 45px;
 }
 
-h4 {
-text-align: center;
+/* ----------------------------video */
+
+.video-container-padding {
+    padding-top: 100px;
+    background: e1e1e3;
+}
+
+#video-background-color {
+    background: #e1e1e3;
 }
 
