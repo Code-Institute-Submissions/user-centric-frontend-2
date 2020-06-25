@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
 
- * {
+* {
     font-family:'Open Sans', sans-serif;
     color: #3e2944;
     padding: 0;
@@ -100,7 +100,6 @@ text-align: center;
 
 .btn.btn-outline-light {
     padding: 7px 17px;
-    border: #774f4f;
     font-family:'Open Sans', sans-serif;
     background-color: #774f4f;
     color: whitesmoke;
@@ -110,10 +109,7 @@ text-align: center;
 
 .btn.btn-outline-light:hover {
     background-color: whitesmoke;
-    color:#774f4f;
     border: #774f4f 1px solid;
-    font-weight: bold;
-
 }
 
 .navbar .navbar-toggler {
@@ -168,7 +164,7 @@ text-align: center;
 .qoute-container {
   border-top: 15px solid #660033;
   border-bottom: 15px solid #660033;
-  background-color: smokewhite;
+  background-color: whitesmoke;
   padding-top: 20px;
   padding-bottom: 20px;
   font-size: 700px;
@@ -208,10 +204,37 @@ text-align: center;
 /* ----------------------------footer */
 
 .container-footer {
-    background: #271B29;
-    height: 200px;
+  padding: 40px;
+  background-color: black;
+  height: 150px;
+}
+    
+.social-link  {
+    display: inline;
+    letter-spacing: 10px;
+    font-size: 20px;
+  }
+
+.social-link a:hover,
+.social-link i:hover {  
+ color: #d682aa;
+  text-decoration: none;
+  transition: all 0.35s ease-in-out;
+}
+  
+.footer-p,
+.social-link i {
+    color: gray;
 }
 
-footer {
-    color: white;
+#copyright {
+  background-color: #3e2944;
+  padding-top:10px;
 }
+
+#copy-p {
+    color:gray;
+    padding-top: 3px;
+}
+
+
