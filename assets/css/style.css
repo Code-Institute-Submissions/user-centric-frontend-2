@@ -204,9 +204,9 @@ text-align: center;
 /* ----------------------------footer */
 
 .container-footer {
-  padding: 40px;
+  padding-top: 23px;
+  padding-bottom: 11px;
   background-color: black;
-  height: 150px;
 }
     
 .social-link  {
@@ -227,14 +227,14 @@ text-align: center;
     color: gray;
 }
 
-#copyright {
+.container-copyright{
   background-color: #3e2944;
-  padding-top:10px;
+  
 }
 
 #copy-p {
     color:gray;
-    padding-top: 3px;
+    padding-top: 13px;
 }
 
 
