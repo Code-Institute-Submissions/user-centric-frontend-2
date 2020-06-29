@@ -129,24 +129,44 @@ text-align: center;
 /* ----------------------------about */
 
 .about-container {
-    padding-bottom: 250px;
+    padding-bottom: 130px;
 }
 
 .col-about-left,
 .col-about-right {
     position: relative;
-    top: 30px;
-    padding-top: 30px;
+    top: 20px;
+    padding-top: 60px;
 }
 
-.col-about-left {
-    position: relative;
-    left: 45px;
+h5{
+    font-size: 30px;
+}  
+
+.row-about1,
+.row-about2  {
+    margin-right: 20px !important;
+    margin-left: 20px !important;
 }
-.col-about-right {
-    position: relative;
-    right: 45px;
+
+@media screen and (min-width: 1400px) {
+    .row-about1,
+    .row-about2 {
+        margin-right: 100px !important;
+        margin-left: 100px !important;
+    }
 }
+
+@media screen and (max-width: 767px) {
+    .col-sm-9 {
+        margin: 0 auto;
+    }
+}
+
+
+
+
+ 
 
 /* ----------------------------video */
 
@@ -236,5 +256,7 @@ text-align: center;
     color:gray;
     padding-top: 13px;
 }
+
+
 
 
