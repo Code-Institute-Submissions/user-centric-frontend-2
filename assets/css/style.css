@@ -103,6 +103,7 @@ p strong .text-center {
   font-size: 17px;
   margin-left: 50px;
   margin-right: 50px;
+  border-left: 10px solid #660033;
 }
 
 #info-p {
@@ -119,7 +120,7 @@ p strong .text-center {
 .btn.btn-outline-light {
     padding: 7px 17px;
     font-family:'Lato', sans-serif;
-    background-color: #774f4f;
+    background-color: #660033;
     color: whitesmoke;
     font-weight: bold;
     letter-spacing: 1px;
@@ -127,7 +128,8 @@ p strong .text-center {
 
 .btn.btn-outline-light:hover {
     background-color: whitesmoke;
-    border: #774f4f 1px solid;
+    border: #660033 1px solid;
+    color: #660033;
 }
 
 .navbar .navbar-toggler {
