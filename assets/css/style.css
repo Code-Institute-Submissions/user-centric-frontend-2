@@ -104,6 +104,23 @@ p strong .text-center {
     text-align: center;
 }
 
+.info-container {
+    padding-top: 150px;
+}
+
+@media screen and (max-width: 360px) {
+    .info-container {
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+    }
+}
+
+
+@media screen and (max-width: 320px) {
+    .info-container {
+    padding-top: 70px;
+    }
+}
 
 
 /* ----------------------------buttons */
