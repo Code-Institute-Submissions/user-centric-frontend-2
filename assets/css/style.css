@@ -115,7 +115,6 @@ h6 {
     }
 }
 
-
 @media screen and (max-width: 320px) {
     .info-container {
     padding-top: 70px;
@@ -188,10 +187,6 @@ h6 {
     padding-bottom: 0px;
     padding-top: 0;
     } 
-
-    .row-about-last {
-        padding-bottom: 50px;
-    }
 }
 
 @media screen and (max-width: 767px) {
@@ -205,19 +200,6 @@ h6 {
 
     #about-image {
     background: #660033; 
-    }
-
-    .row-about-last {
-        padding-bottom: 0;
-    }
-
-   .col-about-last {
-    padding-bottom: 60px;
-    }
-
-    .col-about {
-        border: none;
-        outline: none;
     }
 }
 
