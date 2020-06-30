@@ -91,14 +91,13 @@ h6 {
   padding-top: 10px;
   font-weight: 500;
   font-size: 17px;
-  border-left: 10px solid #660033;
+  border-left: 13px solid #3e2944;
 }
 
 #info-p {
     padding-left: 10px;
     padding-right: 10px;
 }
-
 
 .info-center {
     text-align: center;
@@ -121,7 +120,6 @@ h6 {
     }
 }
 
-
 /* ----------------------------buttons */
 
 .btn.btn-outline-light {
@@ -142,7 +140,6 @@ h6 {
 .navbar .navbar-toggler {
     border: none; 
 }
-
 
 .navbar-toggler:hover {
     background-color: #291d1d60; 
