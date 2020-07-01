@@ -34,7 +34,7 @@ h6 {
 /* ----------------------------navbar */
 
 .navbar-nav {
-    font-weight: 700;
+    font-weight: 500;
 }
 
 .navbar-nav li{
@@ -80,7 +80,12 @@ h6 {
     background-position: center;
 
 }
-
+ #schedule-image {
+  height: 100vh;
+  background: url("../images/moon.png") no-repeat center center;
+  /*background-attachment: fixed;*/
+  background-size: cover;
+ }
 /* ----------------------------text-box on start */
 
 .text-boxed {
@@ -297,3 +302,45 @@ h6 {
 }
 
 
+/* ----------------------------schedule */
+
+table {
+  width:100%;
+  font-size: 18px;
+  padding: 10px;
+}
+
+th, td {
+  padding: 15px;
+  
+}
+
+.t01 tr:nth-child(even) {
+  background-color: #eee;
+}
+.t01 tr:nth-child(odd) {
+ background-color: #fff;
+}
+.t01 th {
+  background-color: black;
+  color: white;
+  border-top-left-radius: 7px;
+ 
+}
+
+.adult-font {
+  color: purple;
+}
+
+.fa-user-ninja {
+    font-size: 20px;
+}
+
+.bottom-radius {
+    border-bottom-left-radius: 7px;
+   
+}
+
+.container-schedule {
+    padding-top: 100px;
+}
