@@ -311,36 +311,30 @@ table {
 }
 
 th, td {
-  padding: 15px;
-  
+  padding: 15px; 
 }
 
-.t01 tr:nth-child(even) {
+.t01 tr:nth-child(even) {    /* copied code from here and made some changes on it https://www.w3schools.com/html/tryit.asp?filename=tryhtml_table_id2 */
   background-color: #eee;
 }
 .t01 tr:nth-child(odd) {
  background-color: #fff;
 }
-.t01 th {
-  background-color: black;
-  color: white;
-  border-top-left-radius: 7px;
- 
+
+.card {
+  background-color: #26263f !important;
 }
 
-.adult-font {
-  color: purple;
+.card-header {
+    color: white;
+    font-size: 25px;
 }
 
 .fa-user-ninja {
     font-size: 20px;
 }
 
-.bottom-radius {
-    border-bottom-left-radius: 7px;
-   
-}
-
 .container-schedule {
     padding-top: 100px;
 }
+
