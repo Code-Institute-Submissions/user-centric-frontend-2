@@ -83,7 +83,6 @@ h6 {
  #schedule-image {
   height: 100vh;
   background: url("../images/moon.png") no-repeat center center;
-  /*background-attachment: fixed;*/
   background-size: cover;
  }
 /* ----------------------------text-box on start */
@@ -304,6 +303,12 @@ h6 {
 
 /* ----------------------------schedule */
 
+.container.container-schedule {
+    padding-top: 150px;
+    padding-left: 0;
+    padding-right: 0;
+}
+
 table {
   width:100%;
   font-size: 18px;
@@ -321,8 +326,14 @@ th, td {
  background-color: #fff;
 }
 
-.card {
-  background-color: #26263f !important;
+.card.card1 {
+  background-color: #26263f;
+  border: none;
+}
+
+.card.card2 {
+  background-color: #541e36;
+  border: none; 
 }
 
 .card-header {
@@ -332,9 +343,23 @@ th, td {
 
 .fa-user-ninja {
     font-size: 20px;
+    color: whitesmoke;
 }
 
-.container-schedule {
-    padding-top: 100px;
+.child-ninja {
+    font-size: 15px;
 }
 
+.bottom-left-radius {
+    border-bottom-left-radius: 4.7px;
+}
+
+.bottom-right-radius {
+    border-bottom-right-radius: 4.7px;
+}
+
+@media screen and (max-width: 360px) { 
+    #schedule-image {
+        height: 120vh;
+    }
+}
