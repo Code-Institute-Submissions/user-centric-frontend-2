@@ -11,6 +11,12 @@
     word-spacing: 1px;
 }
 
+@media screen and (max-width: 576px) {
+    * {
+        font-size: 16px;
+    }
+}
+
 .row {
     margin-right: 0 !important; 
     margin-left: 0 !important; 
@@ -139,12 +145,22 @@ h6 {
 }
 
 .navbar .navbar-toggler {
-    border: none; 
+    border: none;
+
+}
+
+button.navbar-toggler {
+    outline: 1px white !important;
 }
 
 .navbar-toggler:hover {
     background-color: #291d1d60; 
 } 
+
+.navbar-toggler:active,
+.navbar-toggler:focus {
+    box-shadow:1px 1px 1px 1px white;
+}
 
 #font-toggler { 
     color: whitesmoke; 
@@ -409,3 +425,12 @@ th, td {
     }
 }
 
+@media screen and (max-width: 360px)  {
+    .pricing-bg {
+        height: 150vh;
+    }
+
+    .card-group {
+    top: -20vh;
+    }
+}
