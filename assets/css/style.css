@@ -288,7 +288,7 @@ h6 {
 }
 
 .container-copyright{
-  background-color: #3e2944;
+  background-color: #271B29;
   
 }
 
@@ -370,5 +370,25 @@ th, td {
       #schedule-image {
         height: 120vh;
     }
+}
+
+/* ----------------------------pricing */
+
+.pricing-bg {
+    background: #271B29;
+    height: 100vh;  
+}
+
+.line {
+    position: relative;
+    top: 30vh;
+    height: 180px;
+    width: 100%;
+    background-color: rgba(234, 106, 102, 0.089);
+}
+
+.card-group {
+   position: relative;
+   top: -10vh;
 }
 
