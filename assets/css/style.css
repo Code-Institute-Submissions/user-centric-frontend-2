@@ -373,19 +373,23 @@ th, td {
     border-bottom-right-radius: 4.7px;
 }
 
-@media screen and (max-width: 360px), screen and (max-width: 320px) { 
-    #schedule-image {
-        height: 150vh;
-    }
-    .container.container-schedule {
-        padding-top: 10vh;
-    }
+@media screen and (max-width: 360px), 
+       screen and (max-width: 320px) { 
+        
+        #schedule-image {
+            height: 150vh;
+        }
+        .container.container-schedule {
+            padding-top: 10vh;
+        }
 }
 
-@media screen and (max-width: 414px), screen and (max-width: 576px) { 
-      #schedule-image {
-        height: 120vh;
-    }
+@media screen and (max-width: 414px), 
+       screen and (max-width: 576px) { 
+        
+        #schedule-image {
+            height: 120vh;
+        }
 }
 
 /* ----------------------------pricing */
@@ -425,12 +429,34 @@ th, td {
     }
 }
 
-@media screen and (max-width: 360px)  {
+@media screen and (max-height: 1366px) {
+
+    .card-group {
+        top: -5vh;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    
     .pricing-bg {
-        height: 150vh;
+    height: 110vh;
     }
 
     .card-group {
     top: -20vh;
     }
 }
+
+@media screen and (max-width: 360px)  {
+    .pricing-bg {
+        height: 140vh;
+    }
+}
+
+@media screen and (max-width: 320px) {
+
+    .card-group {
+    top: -27vh;
+    }
+}
+
