@@ -388,7 +388,24 @@ th, td {
 }
 
 .card-group {
-   position: relative;
-   top: -10vh;
+    position: relative;
+    top: -10vh;
+}
+
+@media screen and (max-width: 992px) { 
+      #pricing-bg {
+        height: 120vh;
+    }
+
+    div.container.group-container  {
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    div.container.group-container {
+        max-width: 950px;
+    }
 }
 
