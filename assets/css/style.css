@@ -404,7 +404,7 @@ th, td {
     top: 30vh;
     height: 180px;
     width: 100%;
-    background-color: rgba(234, 106, 102, 0.089);
+    background-color: rgba(234, 106, 102, 0.4);
 }
 
 .card-group {
@@ -430,14 +430,12 @@ th, td {
 }
 
 @media screen and (max-height: 1366px) {
-
     .card-group {
         top: -5vh;
     }
 }
 
 @media screen and (max-width: 500px) {
-    
     .pricing-bg {
     height: 110vh;
     }
@@ -451,12 +449,20 @@ th, td {
     .pricing-bg {
         height: 140vh;
     }
+
+      .line {
+    height: 330px;
+    }
 }
 
 @media screen and (max-width: 320px) {
-
     .card-group {
     top: -27vh;
     }
 }
 
+@media screen and (max-width: 414px) { 
+    .card-group { 
+    top: -24vh;
+    }
+}
