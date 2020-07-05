@@ -68,6 +68,7 @@ h6 {
 }
 
 
+
 /* ---------------------------background-images */
 
 #start-image {
@@ -88,6 +89,14 @@ h6 {
   background: url("../images/moon.png") no-repeat center center;
   background-size: cover;
  }
+
+ .contact-img {
+     height: 100vh;
+     background: url("../images/house.jpg") no-repeat center center;
+     background-size: cover;
+ }
+
+
 /* ----------------------------text-box on start */
 
 .text-boxed {
@@ -465,4 +474,17 @@ th, td {
     .card-group { 
     top: -24vh;
     }
+}
+
+/* ----------------------------contact */
+
+.contact-col {
+  background-color: gray;
+  border-radius: 10px;
+  margin-top: 10px;
+  padding-top: 14px;
+}
+
+.btn.btn-danger {
+  margin-bottom: 14px;
 }
