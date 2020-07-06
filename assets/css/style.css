@@ -183,8 +183,8 @@ h6 {
     background-color: whitesmoke;
     color: #660033;
     border: #660033 1px solid;
-   
 }
+
 
 .navbar .navbar-toggler {
     border: none;
@@ -197,6 +197,10 @@ button.navbar-toggler {
 .navbar-toggler:hover {
     background-color: #291d1d60; 
 } 
+
+.navbar-toggler.bg-index {
+      background-color: black; 
+}
 
 .navbar-toggler:active,
 .navbar-toggler:focus {
