@@ -86,6 +86,12 @@ h6 {
   background: url("../images/gray1.jpg") no-repeat center center;
   background-attachment: fixed;
   background-size: cover;
+  }
+
+@media screen and (max-width: 576px) {
+    #start-image {
+         background: url("../images/gray2.jpg") no-repeat center center;
+    }
 }
 
 #about-image {
@@ -110,13 +116,14 @@ h6 {
 /* ----------------------------text-box on start */
 
 .text-boxed {
-  background: rgba(255, 255, 255, 0.863);
+  background: rgba(255, 255, 255, 0.7);
   word-wrap: break-word;
   overflow: hidden;
   padding-top: 10px;
   font-weight: 500;
   font-size: 17px;
   border-left: 13px solid #3e2944;
+  border-radius: 10px;
 }
 
 #info-p {
@@ -124,24 +131,38 @@ h6 {
     padding-right: 10px;
 }
 
-.info-center {
-    text-align: center;
-}
-
 .info-container {
-    padding-top: 150px;
+    padding-top: 220px;
 }
 
-@media screen and (max-width: 360px) {
-    .info-container {
-    padding-right: 0 !important;
-    padding-left: 0 !important;
-    }
-}
 
 @media screen and (max-width: 320px) {
     .info-container {
     padding-top: 70px;
+    }
+}
+
+@media screen and (max-width: 576px) {
+
+    .text-boxed {
+        border-left: none;
+    }
+
+    #info-p {
+    padding-left: 0;
+    padding-right: 0;
+    }
+
+}
+
+@media screen and (max-width: 375px) {
+    div.container-fluid.info-container {
+        padding-left: 0;
+        padding-right: 0;
+        }
+    
+    .text-boxed {
+        border-radius: 0;
     }
 }
 
@@ -155,17 +176,18 @@ h6 {
     color: whitesmoke;
     font-weight: bold;
     letter-spacing: 1px;
+    border: #660033 1px solid;
 }
 
 .btn.btn-outline-light:hover {
     background-color: whitesmoke;
-    border: #660033 1px solid;
     color: #660033;
+    border: #660033 1px solid;
+   
 }
 
 .navbar .navbar-toggler {
     border: none;
-
 }
 
 button.navbar-toggler {
@@ -212,8 +234,8 @@ button.navbar-toggler {
 }
 
 @media screen and (min-width: 1400px) {
-    .row-about{
-        margin-right: 100px !important;
+    .row-about {
+        margin-right: 100px !important; 
         margin-left: 100px !important;
     }
 }
