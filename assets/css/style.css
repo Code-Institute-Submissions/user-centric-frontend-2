@@ -26,7 +26,9 @@ h5 {
     text-align: center;
 }
 
-h5 > strong {
+h5 > strong,
+.card-title,
+.card-header {
 text-transform: uppercase;
 font-family: 'Oswald', sans-serif;
 letter-spacing: 2px;
@@ -35,6 +37,14 @@ font-size: 20px;
 
 h6 {
     text-align: center;
+}
+
+@media screen and (max-width: 576px) {
+    h5 > strong,
+    .card-title,
+    .card-header  {
+        font-size: 18px;
+    }
 }
 
 /* ----------------------------navbar */
@@ -345,11 +355,11 @@ th, td {
 }
 
 .t01 tr:nth-child(even) {    /* copied code from here and made some changes on it https://www.w3schools.com/html/tryit.asp?filename=tryhtml_table_id2 */
-  background-color: rgba(255, 255, 255, 0.8);
+  background-color: rgba(255, 255, 255, 0.9);
 }
 
 .t01 tr:nth-child(odd) {
- background-color: #eeeeee;
+ background-color: white;
 }
 
 .card.card1 {
@@ -362,12 +372,8 @@ th, td {
 
 .card-header {
     color: white;
-    font-size:20px;
-    font-family: "Oswald", sans-serif;
-    letter-spacing: 2px;
-    text-transform: uppercase;
+    font-weight: 500;
 }
-
 
 @media screen and (max-width: 360px), 
        screen and (max-width: 320px) { 
@@ -464,7 +470,7 @@ div.line {
 .contact-col {
   position: relative;
   z-index: 3;
-  background-color: rgba(70, 70, 70, 0.7);
+  background-color: rgba(121, 65, 102, 0.7);
   border-radius: 10px;
   margin-top: 10vh;
   padding-top: 14px;
