@@ -78,7 +78,6 @@ h6 {
 }
 
 
-
 /* ---------------------------background-images */
 
 #start-image {
@@ -185,7 +184,6 @@ h6 {
     border: #660033 1px solid;
 }
 
-
 .navbar .navbar-toggler {
     border: none;
 }
@@ -283,13 +281,28 @@ button.navbar-toggler {
 /* ----------------------------qoute */
 
 .qoute-container {
-  border-top: 15px solid #660033;
-  border-bottom: 15px solid #660033;
+  border-top: 10px solid #660033;
+  border-bottom: 10px solid #660033;
   background-color: whitesmoke;
   padding-top: 20px;
   padding-bottom: 20px;
-  font-size: 700px;
-  font-weight: bold;
+}
+
+#p-qoute {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+
+@media screen and (max-width: 700px) {
+    .qoute-container {
+        padding-top: 5px;
+        padding-bottom: 0;
+    }
+
+    #p-qoute {
+        font-size: 18px;
+    }
 }
 
 #qoute::before {
