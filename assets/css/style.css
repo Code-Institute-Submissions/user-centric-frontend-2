@@ -340,47 +340,34 @@ table {
 }
 
 th, td {
-  padding: 15px; 
+  padding: 15px;
+  font-weight: bold;
 }
 
 .t01 tr:nth-child(even) {    /* copied code from here and made some changes on it https://www.w3schools.com/html/tryit.asp?filename=tryhtml_table_id2 */
-  background-color: #eee;
+  background-color: rgba(255, 255, 255, 0.8);
 }
+
 .t01 tr:nth-child(odd) {
- background-color: #fff;
+ background-color: #eeeeee;
 }
 
 .card.card1 {
   background-color: #26263f;
-  border: none;
 }
 
 .card.card2 {
-  background-color: #541e36;
-  border: none; 
+  background-color: #541e36; 
 }
 
 .card-header {
     color: white;
-    font-size: 25px;
+    font-size:20px;
+    font-family: "Oswald", sans-serif;
+    letter-spacing: 2px;
+    text-transform: uppercase;
 }
 
-.fa-user-ninja {
-    font-size: 20px;
-    color: whitesmoke;
-}
-
-.child-ninja {
-    font-size: 15px;
-}
-
-.bottom-left-radius {
-    border-bottom-left-radius: 4.7px;
-}
-
-.bottom-right-radius {
-    border-bottom-right-radius: 4.7px;
-}
 
 @media screen and (max-width: 360px), 
        screen and (max-width: 320px) { 
@@ -422,7 +409,7 @@ div.line {
     z-index: 2;
 }
 
-@media screen and (max-width: 1024px), screen and (max-height: ) {
+@media screen and (max-width: 1024px) {
     .card-group {
         top: -4.5vh;
     }  
@@ -439,8 +426,6 @@ div.line {
     .card-group {
         top: -6.5vh;
     }
-
-
 }
 
 @media screen and (max-width: 767px) { 
@@ -451,7 +436,7 @@ div.line {
 
 @media screen and (max-width: 414px) { 
     .card-group {
-        top: -20vh;
+        top: -17vh;
     }
 }
 
@@ -477,6 +462,8 @@ div.line {
 /* ----------------------------contact */
 
 .contact-col {
+  position: relative;
+  z-index: 3;
   background-color: rgba(70, 70, 70, 0.7);
   border-radius: 10px;
   margin-top: 10vh;
