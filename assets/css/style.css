@@ -126,6 +126,14 @@ h6 {
   border-radius: 10px;
 }
 
+.block-divider {
+    background-color: #660033;
+    width: 100px;
+    height: 3px;
+    margin: 0 auto;
+    margin-bottom: 5px;
+}
+
 #info-p {
     padding-left: 10px;
     padding-right: 10px;
@@ -364,12 +372,13 @@ button.navbar-toggler {
 
 .container-copyright{
   background-color: #271B29;
-  
+  margin: 0;
+  padding: 0;
 }
 
 #copy-p {
-    color:gray;
-    padding-top: 13px;
+    color: gray;
+    padding: 0;
 }
 
 
