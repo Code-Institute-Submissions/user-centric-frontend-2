@@ -206,7 +206,7 @@ button.navbar-toggler {
 } 
 
 .navbar-toggler.bg-index {
-      background-color: rgba(0, 0, 0, .5); 
+      background-color: rgba(0, 0, 0, .8); 
 }
 
 .navbar-toggler:active,
@@ -293,8 +293,8 @@ button.navbar-toggler {
   border-top: 10px solid #660033;
   border-bottom: 10px solid #660033;
   background-color: whitesmoke;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 10px;
+  padding-bottom: 0;
 }
 
 #p-qoute {
@@ -306,7 +306,6 @@ button.navbar-toggler {
 @media screen and (max-width: 700px) {
     .qoute-container {
         padding-top: 5px;
-        padding-bottom: 0;
     }
 
     #p-qoute {
