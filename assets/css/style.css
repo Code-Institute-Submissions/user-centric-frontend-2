@@ -463,6 +463,14 @@ div.line {
     z-index: 2;
 }
 
+.card.card-fee {
+    background-color: #b89b4b;
+}
+
+.card.card-gym {
+    background-color: #b4b4b9;
+}
+
 @media screen and (max-width: 1024px) {
     .card-group {
         top: -4.5vh;
@@ -528,8 +536,9 @@ div.line {
   margin-bottom: 14px;
 }
 
-label {
-  color: white;
+label,
+.invalid-feedback  {
+  color: white !important;
 }
 
 
