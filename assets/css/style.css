@@ -453,7 +453,7 @@ div.line {
     top: 25vh;
     height: 180px;
     width: 100%;
-    background-color: rgba(234, 106, 102, 0.4);
+    background-color: #3a744742;
 }
 
 .card-group {
@@ -462,18 +462,19 @@ div.line {
     z-index: 2;
 }
 
-.card.card-fee {
-    background-color: #b89b4b;
+.card.card-fee  {
+    background-color: whitesmoke; 
 }
 
 .card.card-gym {
-    background-color: #b4b4b9;
+    background-color: #7bd68f;
 }
 
+/*for Ipad Pro*/
 @media screen and (max-width: 1024px) {
-    .card-group {
+    div.card-group {
         top: -4.5vh;
-    }  
+    } 
 }
 
 @media screen and (max-width: 992px) { 
@@ -483,8 +484,9 @@ div.line {
     }
 }
 
+/*for Ipad*/
 @media screen and (max-width: 768px) {
-    .card-group {
+    div.card-group {
         top: -6.5vh;
     }
 }
@@ -493,30 +495,35 @@ div.line {
     div.line {
         height: 0;
     }
-}
 
-@media screen and (max-width: 414px) { 
-    .card-group {
+    div.card-group {
+        flex-direction: column;
         top: -17vh;
     }
 }
 
 @media screen and (max-height: 736px) {
     .pricing-bg {
-        height: 107vh;
+        height: 110vh;
+    }
+} 
+
+@media screen and (max-width: 576px) {
+    .card.card-fee, 
+    .card.card-gym   { 
+        box-shadow: 5px 5px #465c4b;
     }
 }
 
 @media screen and (max-width: 360px) {
     .pricing-bg {
-        height: 125vh;
+        height: 130vh;
     }
 }
 
-
 @media screen and (max-width: 320px) {
     .pricing-bg {
-        height: 140vh;
+        height: 145vh;
     }
 }
 
