@@ -122,13 +122,12 @@ h6 {
   padding-top: 10px;
   font-weight: 500;
   font-size: 17px;
-  border-left: 13px solid #3e2944;
   border-radius: 10px;
 }
 
 .block-divider {
     background-color: #660033;
-    width: 100px;
+    width: 80px;
     height: 3px;
     margin: 0 auto;
     margin-bottom: 5px;
@@ -401,12 +400,21 @@ th, td {
   font-weight: bold;
 }
 
+.fa-clock {
+    color: rgb(175, 175, 175);
+}
+
 .t01 tr:nth-child(even) {    /* copied code from here and made some changes on it https://www.w3schools.com/html/tryit.asp?filename=tryhtml_table_id2 */
-  background-color: rgba(255, 255, 255, 0.9);
+  background-color: rgba(255, 255, 255, 0.733);
 }
 
 .t01 tr:nth-child(odd) {
- background-color: white;
+ background-color: rgb(241, 241, 241);
+}
+
+div.card {
+    box-shadow: 5px 5px 5px rgb(10, 10, 10);
+    border: none;
 }
 
 .card.card1 {
@@ -418,8 +426,9 @@ th, td {
 }
 
 .card-header {
-    color: white;
+    color: rgb(175, 175, 175);
     font-weight: 500;
+    text-shadow: 5px 5px 5px rgb(10, 10, 10);
 }
 
 @media screen and (max-width: 360px), 
