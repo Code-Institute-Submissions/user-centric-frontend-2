@@ -573,3 +573,22 @@ label,
   color: white !important;
 }
 
+
+/* ----------------------------contact-modal */
+.modal-header {
+  background: #7bd68f;
+}
+
+.modal-footer {
+  background: #7bd68f;
+}
+
+ .form-control {
+    border: 1px solid #7bd68f !important;
+  }
+
+ 
+
+.modal-form {
+  
+}
