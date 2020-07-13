@@ -584,11 +584,13 @@ div.modal-header,
 div.modal-footer {
     background: #660033;
     border: none;
-    box-shadow:  1px 1px 7px rgb(29, 61, 42);
+    -webkit-box-shadow:  1px 1px 7px rgb(29, 61, 42);
+            box-shadow:  1px 1px 7px rgb(29, 61, 42);
 }
 
 div.modal-footer {
-    box-shadow:  1px -1px 7px rgb(29, 61, 42);
+    -webkit-box-shadow:  1px -1px 7px rgb(29, 61, 42);
+            box-shadow:  1px -1px 7px rgb(29, 61, 42);
 }
 
 .col-form-label,
