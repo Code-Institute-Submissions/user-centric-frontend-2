@@ -351,6 +351,11 @@ button.navbar-toggler {
   left:0;
   height: 100%;
 }
+
+div.text-right > a {
+    color: #3e2944;
+    font-weight: bold;
+}
 /* ----------------------------footer */
 
 .container-footer {
