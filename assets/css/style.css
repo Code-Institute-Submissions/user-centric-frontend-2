@@ -478,7 +478,7 @@ div.line {
 
 .card-group {
     position: relative;
-    top: -12vh;
+    top: -12.5vh;
     z-index: 2;
 }
 
@@ -493,7 +493,7 @@ div.line {
 /*for Ipad Pro*/
 @media screen and (max-width: 1024px) {
     div.card-group {
-        top: -5.5vh;
+        top: -6.5vh;
     } 
 }
 
@@ -507,7 +507,7 @@ div.line {
 /*for Ipad*/
 @media screen and (max-width: 768px) {
     div.card-group {
-        top: -9.5vh;
+        top: -11.5vh;
     }
 }
 
@@ -527,7 +527,7 @@ div.line {
 
 @media screen and (max-height: 736px) {
     .pricing-bg {
-        height: 110vh;
+        height: 120vh;
     }
 } 
 
@@ -541,13 +541,13 @@ div.line {
 
 @media screen and (max-width: 360px) {
     .pricing-bg {
-        height: 130vh;
+        height: 135vh;
     }
 }
 
 @media screen and (max-width: 320px) {
     .pricing-bg {
-        height: 145vh;
+        height: 160vh;
     }
 }
 
