@@ -478,7 +478,7 @@ div.line {
 
 .card-group {
     position: relative;
-    top: -8vh;
+    top: -12vh;
     z-index: 2;
 }
 
@@ -493,7 +493,7 @@ div.line {
 /*for Ipad Pro*/
 @media screen and (max-width: 1024px) {
     div.card-group {
-        top: -4.5vh;
+        top: -5.5vh;
     } 
 }
 
@@ -507,7 +507,7 @@ div.line {
 /*for Ipad*/
 @media screen and (max-width: 768px) {
     div.card-group {
-        top: -6.5vh;
+        top: -9.5vh;
     }
 }
 
@@ -521,7 +521,7 @@ div.line {
         -webkit-box-direction: normal;
             -ms-flex-direction: column;
                 flex-direction: column;
-        top: -17vh;
+        top: -22vh;
     }
 }
 
