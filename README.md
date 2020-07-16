@@ -190,7 +190,7 @@ Note: The content of this website is for educational purposes only.
 
 
 ### Content
-- Some text on the Start page and Pricing page came from my previous training club and their [site]()
+- Some text on the Start page and Pricing page was used from my previous training club's [site](http://aikidomalmo.se/).
 The text was translated to English and then edited. 
 
 ### Media
