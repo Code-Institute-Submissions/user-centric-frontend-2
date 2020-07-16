@@ -102,15 +102,15 @@ Languages Used for this project: HTML5 & CSS3.
 
 ## Testing
 
-Testing User stories from UX section: 
-1.	As a First Time Visitor, I want the purpose of the site to be clear and the information about the club easy to understand and read.
+#### Testing User stories from UX section: 
+1.	**As a First Time Visitor, I want the purpose of the site to be clear and the information about the club easy to understand and read.**
     - When visiting the website, the user is welcomed by a clean, easy to read and easy to use navigation bar with a header logo on the left. A hero image covers the whole page. From the left, some text in a box with two buttons, "Schedule and Contact", slides in and gives the user the most interesting information about the club. 
     
     - The stunning hero image immediately shows what the website is about.  
     
     - By scrolling down, the user will learn more about the club when reading the nicely structured and clear text in the about section, and then continuing to the video and gallery. 
 
-2.	As a First Time Visitor, I want the navigation on the site to be easy to use so I can find the content I am looking for. 
+2.	**As a First Time Visitor, I want the navigation on the site to be easy to use so I can find the content I am looking for.** 
 
     - The website has a navigation bar at the top in every page clearly visible with links describing which page they lead to so that the user never feels lost. On some phones, the navigation button is not clear in contrast to the hero-image, so to fix that a background color to the button is added, same with the navigation links, a text-shadow is put to make them more clear.
     
@@ -118,7 +118,7 @@ Testing User stories from UX section:
     
     - On the Start page, the contact button being a modal contact form, gives the user the option to stay on the same page while writing a message. 
 
-3.	As a First Time Visitor, I want to easily find schedule, pricing, location and contact information. 
+3.	**As a First Time Visitor, I want to easily find schedule, pricing, location and contact information.** 
 
     - The colored schedule and contact button on the Start page, being contained within the slide-in animation, is hard to miss when entering the site. So, the user will find the schedule easy and can contact the club easy too. The schedule and contact links are also in the navigation bar. 
 
@@ -126,14 +126,14 @@ Testing User stories from UX section:
     
     - Within the slide-in animation on the Start page, there is also a text that stands out saying; “the 3 first training sessions are for free”. So that the user’s priority is no longer to check the pricing. If they want to know more about pricing, they just use the navigation bar. 
 
-4.  As a Returning Visitor, I want to mainly find information about schedule, location and pricing.
+4.  **As a Returning Visitor, I want to mainly find information about schedule, location and pricing.**
     - The directions for schedule and pricing information are clearly shown in the navigation bar. 
 
     - The direction for schedule is also shown extra clearly in the button at the Start page. 
 
     - Only scrolling down a little from the Start page, the user will find location information in the about section, and at the bottom of every page in the footer. 
 
-5.	As a Returning Visitor, I want to be able to contact the club easily for questions I have.
+5.	**As a Returning Visitor, I want to be able to contact the club easily for questions I have.**
     - In the navigation bar, the contact link is shown clear.
    
     - On the Start page, the contact button is shown extra clear and the user can easily fill out the form and send a message. The contact form shows whether the user has filled in valid information in order to be able to send the message. 
@@ -141,7 +141,7 @@ When non-valid, there is a red text explaining what needs to be corrected. When 
     
     - At the bottom of every page in the footer, there is contact information shown clearly. 
 
-6.	As a Returning Visitor, I want to find social links so I can follow the club for any special events.
+6.	**As a Returning Visitor, I want to find social links so I can follow the club for any special events.**
 
     - At the bottom of every page in the footer, there are the social links shown clearly. Hovering over them gives another color and clicking them opens a new page with respective social platform. 
 
