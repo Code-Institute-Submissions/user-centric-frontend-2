@@ -174,12 +174,13 @@ When non-valid, there is a red text explaining what needs to be corrected. When 
 git clone https://github.com/USERNAME/REPOSITORY
 ```
 7.	Press Enter. Your local clone is now created.
+
 For more information about how to clone a repository click [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 
 
 ## Credits
 
-Note: The content of this website is for educational purposes only.
+**Note**: The content of this website is for educational purposes only.
 
 ### Code
 
@@ -190,11 +191,11 @@ Note: The content of this website is for educational purposes only.
 
 
 ### Content
-- Some text on the Start page and Pricing page was used from my previous training club's [site](http://aikidomalmo.se/).
+Some text on the Start page and Pricing page was used from my previous training club's [site](http://aikidomalmo.se/).
 The text was translated to English and then edited. 
 
 ### Media
--  Images were found in Ecosia with its search engine. 
+Images were found in Ecosia with its search engine. 
 
 ### Acknowledgements
 
