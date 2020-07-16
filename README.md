@@ -1,12 +1,12 @@
-# Amai Aikido
+<h1 align="center"> Amai Aikido </h1>
 
 I created a website for English speaking people in Spain, who are interested in training Aikido. It is designed to be responsive on 
 all devices, easy to navigate and find desired information. 
 This is my first milestone project and my first website I made while being student at Code Institute with my newly acquired skills.
 [View website in GitHub Pages](https://danikrs.github.io/user-centric-frontend) 
 
-<h1>
-  <a href="https://danikrs.github.io/user-centric-frontend" target="_blank"><img src="assets/images/gray1.jpg" alt="Anna Gilhespy logo"/></a>
+<h1 align="center">
+  <a href="https://danikrs.github.io/user-centric-frontend" target="_blank"><img src="assets/images/gray1.jpg"/></a>
 </h1>
 
 
