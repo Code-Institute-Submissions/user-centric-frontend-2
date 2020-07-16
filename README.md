@@ -29,12 +29,14 @@ This is my first milestone project and my first website I made while being stude
 
 ## Features
 
-Responsive on all device sizes.  Each page features a **navigation bar** on the top with a **header logo** on the left and a **footer** at the bottom with **copyright information** and **social media icons** .  Every page except the **Pricing page** has its own **hero-image** at the top to help make the website look beautiful. 
+Responsive on all device sizes.  Each page features a **navigation bar** with **navigation links** on the top and with a **header logo** on the left and a **footer** at the bottom with
+ **copyright information**, **social media icons**, **contact information** and **location information** .  
+Every page except the **Pricing page** has its own **hero-image** at the top to help make the website look beautiful.  
 
 #### Start
 There are **4 pages** within the **Start page**.
 
-**The first page** - features an artistic hero-image. There is a different but similar hero-image for small devices and another for medium to large devices, so that it looks good on each size. A **box with text** and **two buttons** contained within it, slides in from the left to catch the user’s attention. Clicking one of the buttons pops up a **contact modal**. On a small device, the text on the box is reduced. On some phones, the **navigation button** is not clear in contrast to the hero-image, so to fix that a background color to the button is added, same with the **navigation links**, a text-shadow is put to make them more clear. 
+**The first page** - features an artistic hero-image, showing what the website is about. There is a different but similar hero-image for small devices and another for medium to large devices, so that it looks good on each size. A **box with text** and **two buttons** contained within it, slides in from the left to catch the user’s attention. Clicking one of the buttons pops up a **contact modal**. On a small device, the text on the box is reduced. On some phones, the **navigation button** is not clear in contrast to the hero-image, so to fix that a background color to the button is added, same with the **navigation links**, a text-shadow is put to make them more clear. 
 
 **The second page** - has information about the club, *not too much text to overwhelm the reader* and the text is divided into 4 parts with an image in the middle, making the reading more enjoyable. On medium devices the image is removed and on smaller devices, purple borders left and right appears. 
 
@@ -47,7 +49,8 @@ The Schedule page features a nicely colored hero-image and **two cards** in the 
 
 #### Pricing 
 The Pricing page features **two cards** in the center, one for Training Fee and the other for The Gym.  Behind the cards there is a background color and a dark green line in the center stretching full width across the page. The line is viewable in medium to large devices to make the page look more stylish.
-Contact 
+
+#### Contact 
 The Contact page features an uplifting hero-image and a simple **contact form** with Name, Email and Message inputs, and a **send button**. The background color of the contact form matches the flowers on the hero-image. 
 
  
