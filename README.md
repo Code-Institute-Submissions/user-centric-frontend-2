@@ -54,19 +54,19 @@ The Contact page features an uplifting hero-image and a simple **contact form** 
 
  
 ### Existing Features
-- Header Logo. Clicking the logo returns users to Start.
-- Navigation Bar. Clicking the navigation links takes users easily to the website's pages.
-- Footer Copyright. To protect copyright.
-- Footer Social Icons. Clicking the icons opens a new page with the social platforms that the club uses.
-- Buttons. Clicking on the Schedule button takes user to the Schedule page. Clicking on Contact button pops up a contact modal. 
-- Video. Allows potential students to see the training in full size. 
-- About Page. Gives potential trainers enough information without it being too much.
-- Quote. the quote summarizes the training shortly and poetically to get the potential trainer curious on what the training is about. 
-- Gallery & slide controls. Allows potential trainers to view the training and to click to the previous image and the next. 
-- Start link on the last page. Clicks the user back to the first page on Start. 
-- Schedule Cards. Allows potential trainers to view the times and days for training.
-- Pricing Cards. Allow potential trainers to understand the pricing.
-- Contact Form & Contact Modal. Allows potential trainers to easily send a message.
+- **Header Logo**. Clicking the logo returns users to Start.
+- **Navigation Bar**. Clicking the navigation links takes users easily to the website's pages.
+- **Footer Copyright**. To protect copyright.
+- **Footer Social Icons**. Clicking the icons opens a new page with the social platforms that the club uses.
+- **Buttons**. Clicking on the Schedule button takes user to the Schedule page. Clicking on Contact button pops up a contact modal. 
+- **Video**. Allows potential students to see the training in full size. 
+- **About Page**. Gives potential trainers enough information without it being too much.
+- **Blockquote**. the quote summarizes the training shortly and poetically to get the potential trainer curious on what the training is about. 
+- **Gallery with slide controls**. Allows potential trainers to view the training and to click to the previous image and the next. 
+- **Start link** on the last page. Clicks the user back to the first page on Start. 
+- **Schedule Cards**. Allows potential trainers to view the times and days for training.
+- **Pricing Cards**. Allow potential trainers to understand the pricing.
+- **Contact Form & Contact Modal**. Allows potential trainers to easily send a message.
 
 
 ### Features Left to Implement
