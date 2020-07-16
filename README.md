@@ -2,12 +2,17 @@
 
 I created a website for English speaking people in Spain, who are interested in training Aikido. It is designed to be responsive on 
 all devices, easy to navigate and find desired information. 
-This is my first milestone project and my first website I made while being student at Code Institute with my newly acquired skills. 
+This is my first milestone project and my first website I made while being student at Code Institute with my newly acquired skills.
+[View website in GitHub Pages](https://danikrs.github.io/user-centric-frontend) 
+
+<h1>
+  <a href="https://danikrs.github.io/user-centric-frontend" target="_blank"><img src="assets/images/gray1.jpg" alt="Anna Gilhespy logo"/></a>
+</h1>
 
 
 ## UX
 
-User stories
+#### User stories
 
 1.	As a First time Visitor, I want the purpose of the site to be clear and the information about the club easy to understand and read. 
 2.	As a First time Visitor, I want the navigation on the site to be easy to use so I can find the content I am looking for. 
@@ -16,7 +21,7 @@ User stories
 5.	As a Returning Visitor, I want to be able to contact the club easily for questions I have.
 6.	As a Returning Visitor, I want to find social links so I can follow the club for any special events.
 
-Wireframes 
+#### Wireframes 
 - Start  – View
 - Schedule – View
 - Pricing – View
@@ -157,7 +162,9 @@ When non-valid, there is a red text explaining what needs to be corrected. When 
 4.	Open Git Bash in your local IDE
 5.	Change the current working directory to the location where you want the cloned directory to be made.
 6.	Type git clone, and then paste the URL you copied in Step 3.
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+```console
+git clone https://github.com/USERNAME/REPOSITORY
+```
 7.	Press Enter. Your local clone is now created.
 For more information about how to clone a repository click [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 
