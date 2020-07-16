@@ -29,7 +29,7 @@ This is my first milestone project and my first website I made while being stude
 
 ## Features
 
-Responsive on all device sizes.  Each page features a **navigation bar** with **navigation links** on the top and with a **header logo** on the left and a **footer** at the bottom with
+Responsive on all device sizes. Each page features a **navigation bar** with **navigation links** on the top and with a **header logo** on the left and a **footer** at the bottom with
  **copyright information**, **social media icons**, **contact information** and **location information**. Every page except the **Pricing page** has its own **hero-image** at the top to help make the website look beautiful.  
 
 #### Start
@@ -70,9 +70,10 @@ The Contact page features an uplifting hero-image and a simple **contact form** 
 
 
 ### Features Left to Implement
-- To the Contact buttons - API, that requires Javascript, so that the user can send a message. 
-- To the Pricing cards - Payment buttons linked to pop-up modals, guiding the user on how to pay so that the user can pay directly from the website. 
-
+-  When the user sends a message, a conformation text appears in the contact form to indicate the message being sent.
+- Payment buttons linked to pop-up modals, guiding the user on how to pay so that the user can pay directly from the website. 
+- Option to choose Spanish language of the website. 
+- 
 
 ## Technologies Used
 
@@ -197,7 +198,7 @@ The text was translated to English and then edited.
 
 ### Acknowledgements
 
-- The Mentors at Code Institute for their educational video tutorials.
-- The tutor support at Code Institute.
+- The Mentors at Code Institute for their educational video tutorials and feedback.
+- The tutor support at Code Institute for tutoring.
 - My own experience of practicing Aikido.
 
