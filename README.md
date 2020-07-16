@@ -184,8 +184,8 @@ Note: The content of this website is for educational purposes only.
 ### Code
 
 - For making the images appear in the same height while being responsive, this [Stackoverflow post](https://stackoverflow.com/questions/34425898/making-all-images-appear-with-the-same-height-in-bootstrap) was used and edited for my own needs. 
-- Bootstrap4: was used for this project mainly to make the site responsive.
-- For the schedule tabels this [w3schools tutorial]( https://www.w3schools.com/html/tryit.asp?filename=tryhtml_table_id2)  code was used and edited for my own needs
+- For making the site responsive [Bootstrap4](https://getbootstrap.com/) was used.
+- For the schedule tables this [w3schools tutorial]( https://www.w3schools.com/html/tryit.asp?filename=tryhtml_table_id2)  code was used and edited for my own needs
 - For making the navbar I used this [Bootstrap code](https://startbootstrap.com/snippets/navbar-logo/) and edited it for my own needs.
 
 
