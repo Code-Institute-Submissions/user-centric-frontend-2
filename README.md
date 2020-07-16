@@ -30,8 +30,7 @@ This is my first milestone project and my first website I made while being stude
 ## Features
 
 Responsive on all device sizes.  Each page features a **navigation bar** with **navigation links** on the top and with a **header logo** on the left and a **footer** at the bottom with
- **copyright information**, **social media icons**, **contact information** and **location information** .  
-Every page except the **Pricing page** has its own **hero-image** at the top to help make the website look beautiful.  
+ **copyright information**, **social media icons**, **contact information** and **location information**. Every page except the **Pricing page** has its own **hero-image** at the top to help make the website look beautiful.  
 
 #### Start
 There are **4 pages** within the **Start page**.
@@ -112,7 +111,7 @@ Testing User stories from UX section:
 
 2.	As a First Time Visitor, I want the navigation on the site to be easy to use so I can find the content I am looking for. 
 
-    - The website has a navigation bar at the top in every page clearly visible with links describing which page they lead to so that the user never feels lost. 
+    - The website has a navigation bar at the top in every page clearly visible with links describing which page they lead to so that the user never feels lost. On some phones, the navigation button is not clear in contrast to the hero-image, so to fix that a background color to the button is added, same with the navigation links, a text-shadow is put to make them more clear.
     
     - After scrolling down to the bottom of the Start page, after the 4 pages, there is a link that redirects the user to the first page, so that the user smoothly can get back to where they started. 
     
