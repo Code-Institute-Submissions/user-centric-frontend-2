@@ -103,48 +103,48 @@ Languages Used for this project: **HTML5** & **CSS3**.
 
 ### Testing User stories from UX section: 
 1.	**As a First Time Visitor, I want the purpose of the site to be clear and the information about the club easy to understand and read.**
-    - When visiting the website, the user is welcomed by a clean, easy to read and easy to use navigation bar with a header logo on the left. A hero image covers the whole page. From the left, some text in a box with two colored buttons, "Schedule and Contact", slides in and gives the user the most interesting information about the club. 
+    - **a.** When visiting the website, the user is welcomed by a clean, easy to read and easy to use navigation bar with a header logo on the left. A hero image covers the whole page. From the left, some text in a box with two colored buttons, "Schedule and Contact", slides in and gives the user the most interesting information about the club. 
     
-    - The stunning hero image immediately shows what the website is about. There is a different but similar hero-image that appears on small devices that is well suited for the size. 
+    - **b.** The stunning hero image immediately shows what the website is about. There is a different but similar hero-image that appears on small devices that is well suited for the size. 
  
-    - By scrolling down a little, the user will learn more about the club when reading the nicely structured and clear text in the about section. Continuing scrolling down, the user sees the video and gallery that are helping to show the traning the club provides clearer. 
+    - **c.** By scrolling down a little, the user will learn more about the club when reading the nicely structured and clear text in the about section. Continuing scrolling down, the user sees the video and gallery that are helping to show the traning the club provides clearer. 
     On medium devices, the image is removed in the about section. On smaller devices, purple borders left and right appears, to make the reading more easy and enjoyable.
 
 2.	**As a First Time Visitor, I want the navigation on the site to be easy to use so I can find the content I am looking for.** 
 
-    - The website has a navigation bar at the top in every page clearly visible with links describing which page they lead to so that the user never feels lost. On some phones, the navigation button is not clear in contrast to the hero-image. To fix that, a background color to the button is added, same with the navigation links, a text-shadow is put to make them more clear.
+    - **a.** The website has a navigation bar at the top in every page clearly visible with links describing which page they lead to so that the user never feels lost. On some phones, the navigation button is not clear in contrast to the hero-image. To fix that, a background color to the button is added, same with the navigation links, a text-shadow is put to make them more clear.
     
-    - After scrolling down to the bottom of the Start page, after the 4 pages, there is a link that redirects the user to the first page, so that the user smoothly can get back to where they started. 
+    - **b.** After scrolling down to the bottom of the Start page, after the 4 pages, there is a link that redirects the user to the first page, so that the user smoothly can get back to where they started. 
     
-    - On the Start page, the contact button being a modal contact form, gives the user the option to stay on the same page while writing a message. 
+    - **c.** On the Start page, the contact button being a modal contact form, gives the user the option to stay on the same page while writing a message. 
 
 3.	**As a First Time Visitor, I want to easily find schedule, pricing, location and contact information.** 
 
-    - The colored schedule and contact button on the Start page, being contained within the slide-in animation, is hard to miss when entering the site. Therefore, the user will find the schedule information easily and can contact the club easily too. The schedule and the contact links are also in the navigation bar. 
+    - **a.** The colored schedule and contact button on the Start page, being contained within the slide-in animation, is hard to miss when entering the site. Therefore, the user will find the schedule information easily and can contact the club easily too. The schedule and the contact links are also in the navigation bar. 
 
-    - The user can also view the contact and location information at the bottom of every page in the footer. When scrolling down a litte on the Start page to the About section, the user immediately finds location information. 
+    - **b.** The user can also view the contact and location information at the bottom of every page in the footer. When scrolling down a litte on the Start page to the About section, the user immediately finds location information. 
     
-    - Within the slide-in animation on the Start page, there is also a text that stands out saying: “the 3 first training sessions are for free”. So then, the user’s priority is no longer to check the pricing. If they want to know more about the pricing, they can just use the navigation bar.
+    - **c.** Within the slide-in animation on the Start page, there is also a text that stands out saying: “the 3 first training sessions are for free”. So then, the user’s priority is no longer to check the pricing. If they want to know more about the pricing, they can just use the navigation bar.
     On small devices, the text on the box is reduced so only its header, the buttons and the text saying: "the 3 first training sessions are for free”, remains.
 
 4.  **As a Returning Visitor, I want to mainly find information about the schedule, location and pricing.**
-    - The directions for schedule and pricing information are clearly shown in the navigation bar. When enterting the pages the user sees nice and clean information about each topic. The green div line in the background of the Pricing page is viewable in medium to large devices to make the page look more stylish, on smaller devices its removed and instead the Pricing cards gets a nice green box-shadow.   
+    - **a.** The directions for schedule and pricing information are clearly shown in the navigation bar. When enterting the pages the user sees nice and clean information about each topic. The green div line in the background of the Pricing page is viewable in medium to large devices to make the page look more stylish, on smaller devices its removed and instead the Pricing cards gets a nice green box-shadow.   
 
-    - The direction for the schedule and is also shown extra clearly in the colored button at the Start page. 
+    - **b.** The direction for the schedule and is also shown extra clearly in the colored button at the Start page. 
 
-    - By scrolling down a little from the Start page, the user will find location information in the about section, and at the bottom of every page in the footer.
+    - **c.** By scrolling down a little from the Start page, the user will find location information in the about section, and at the bottom of every page in the footer.
 
 5.	**As a Returning Visitor, I want to be able to contact the club easily for questions I have.**
-    - On the Start page, the contact button is shown extra clear and the user can easily fill out the form and send a message. The contact form shows whether the user has filled in valid information in order to be able to send the message. 
+    - **a.** On the Start page, the contact button is shown extra clear and the user can easily fill out the form and send a message. The contact form shows whether the user has filled in valid information in order to be able to send the message. 
         When non-valid, there is a red text explaining what needs to be corrected. When the text is correct a green border around the input is shown and the red text is removed. 
 
-    - In the navigation bar, the contact link to the Contact page is shown clear. When entering the page the user sees a simple, clear and easy to use contact form with validation, same as in the contact modal, to further assist the user.
+    - **b.** In the navigation bar, the contact link to the Contact page is shown clear. When entering the page the user sees a simple, clear and easy to use contact form with validation, same as in the contact modal, to further assist the user.
     
-    - At the bottom of every page in the footer, there is contact information shown clearly. 
+    - **c.** At the bottom of every page in the footer, there is contact information shown clearly. 
 
 6.	**As a Returning Visitor, I want to find social links so I can follow the club for any special events.**
 
-    - At the bottom of every page in the footer, there are the social links shown clearly. Hovering over them gives another color and clicking them opens a new page with respective social platform. 
+    - **a.** At the bottom of every page in the footer, there are the social links shown clearly. Hovering over them gives another color and clicking them opens a new page with respective social platform. 
 
 ### Additional Testing 
 - The Website was tested on multiple browsers such as Google Chrome, Microsoft Edge, Internet Explorer, Firefox and Opera. 
