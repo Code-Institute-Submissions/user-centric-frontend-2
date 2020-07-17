@@ -29,15 +29,14 @@ This is my first milestone project and my first website I made while being stude
 
 ## Features
 
-Responsive on all device sizes. Each page features a **navigation bar** with **navigation links** on the top and with a **header logo** on the left and a **footer** at the bottom with
- **copyright information**, **social media icons**, **contact information** and **location information**. Every page except the **Pricing page** has its own **hero-image** at the top to help make the website look beautiful.  
+Responsive on all device sizes. Each page features a **navigation bar** with **navigation links** on the top and with a **header logo** on the left and a **footer** at the bottom with **social media icons**, **copyright** **contact** and **location information**. Every page except the **Pricing page** has its own **hero-image** at the top to help make the website look beautiful.  
 
 ### Start
 There are **4 pages** within the **Start page**.
 
-**The first page** - features an artistic **hero-image**, showing what the website is about. There is a different but similar hero-image for small devices and another for medium to large devices, so that it looks good on each size. A **box with text** and **two buttons** "Schedule & Contact", contained within the box, slides in from the left to catch the user’s attention. Clicking one of the buttons pops up a **contact modal**. On a small device, the text on the box is reduced.  
+**The first page** - features an artistic **hero-image**, showing what the website is about. A **box with text** and **two buttons** "Schedule & Contact", contained within the box, slides in from the left to catch the user’s attention. Clicking one of the buttons pops up a **contact modal**.  
 
-**The second page** - has information about the club, *not too much text to overwhelm the reader* and the text is divided into 4 parts with an **image** in the middle, making the reading more enjoyable. On medium devices the image is removed and on smaller devices,**purple borders** left and right appears. 
+**The second page** - has information about the club, *not too much text to overwhelm the reader* and the text is divided into 4 parts with an **image** in the middle, making the reading more enjoyable.  
 
 **The third page** - has a **video** in the center and a **big blockquote** under it stretching full width, dividing the **video** and the **gallery**.  
 
@@ -47,7 +46,7 @@ There are **4 pages** within the **Start page**.
 The Schedule page features a nicely colored **hero-image** and **two cards** in the center, matching the colors of the hero-image. One card for Adult Training and one for Child Training, containing **tables** with days and times displayed clearly. 
 
 ### Pricing 
-The Pricing page features **two cards** in the center, one for Training Fee and the other for The Gym.  Behind the cards there is a background color and a dark **green div line** in the center stretching full width across the page. The line is viewable in medium to large devices to make the page look more stylish.
+The Pricing page features **two cards** in the center, one for Training Fee and the other for The Gym.  Behind the cards there is a background color and a dark **green div line** in the center stretching full width across the page. 
 
 ### Contact 
 The Contact page features an uplifting **hero-image** and a simple **contact form** with Name, Email and Message inputs, and a **send button**. The background color of the contact form matches the flowers on the hero-image. 
@@ -106,8 +105,8 @@ Languages Used for this project: HTML5 & CSS3.
 1.	**As a First Time Visitor, I want the purpose of the site to be clear and the information about the club easy to understand and read.**
     - When visiting the website, the user is welcomed by a clean, easy to read and easy to use navigation bar with a header logo on the left. A hero image covers the whole page. From the left, some text in a box with two buttons, "Schedule and Contact", slides in and gives the user the most interesting information about the club. 
     
-    - The stunning hero image immediately shows what the website is about.  
-    
+    - The stunning hero image immediately shows what the website is about. There is a different but similar hero-image that appears on small devices that is well suited for the size. 
+ 
     - By scrolling down, the user will learn more about the club when reading the nicely structured and clear text in the about section, and then continuing to the video and gallery. 
 
 2.	**As a First Time Visitor, I want the navigation on the site to be easy to use so I can find the content I am looking for.** 
@@ -124,14 +123,17 @@ Languages Used for this project: HTML5 & CSS3.
 
     - The user can also view the contact and location information at the bottom of every page in the footer. When scrolling down one page after the Start page, the user directly finds location information. 
     
-    - Within the slide-in animation on the Start page, there is also a text that stands out saying; “the 3 first training sessions are for free”. So that the user’s priority is no longer to check the pricing. If they want to know more about pricing, they just use the navigation bar. 
+    - Within the slide-in animation on the Start page, there is also a text that stands out saying: “the 3 first training sessions are for free”. So that the user’s priority is no longer to check the pricing. If they want to know more about pricing, they just use the navigation bar that is cleary visible aswell.
+    On small devices, the text on the box is reduced so only the header, the buttons and the text saying: "the 3 first training sessions are for free”, remains.
 
 4.  **As a Returning Visitor, I want to mainly find information about schedule, location and pricing.**
-    - The directions for schedule and pricing information are clearly shown in the navigation bar. 
+    - The directions for schedule and pricing information are clearly shown in the navigation bar. When enterting the pages the user sees nice and clean information about each topic.
+    The green div line in the background of the Pricing page is viewable in medium to large devices to make the page look more stylish, on smaller devices its removed and instead the Pricing cards gets a nice green box-shadow.   
 
-    - The direction for schedule is also shown extra clearly in the button at the Start page. 
+    - The direction for schedule is also shown extra clearly in the colored button at the Start page. 
 
-    - Only scrolling down a little from the Start page, the user will find location information in the about section, and at the bottom of every page in the footer. 
+    - Only scrolling down a little from the Start page, the user will find location information in the about section, and at the bottom of every page in the footer.
+    On medium devices the image is removed in the about section and on smaller devices,**purple borders** left and right appears, to make the reading more easy and enjoyable. 
 
 5.	**As a Returning Visitor, I want to be able to contact the club easily for questions I have.**
     - In the navigation bar, the contact link is shown clear.
