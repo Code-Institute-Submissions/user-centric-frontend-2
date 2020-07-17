@@ -3,7 +3,7 @@
 I created a website for English speaking people in Spain, who are interested in training Aikido. It is designed to be responsive on 
 all devices, easy to navigate and find desired information. 
 This is my first milestone project and my first website I made while being student at Code Institute with my newly acquired skills.
-[View website in GitHub Pages](https://danikrs.github.io/user-centric-frontend) 
+<a href="https://danikrs.github.io/user-centric-frontend" target="_blank">View website in GitHub Pages</a>
 
 <h1 align="center">
   <a href="https://danikrs.github.io/user-centric-frontend" target="_blank"><img src="assets/images/gray1.jpg"/></a>
@@ -22,10 +22,10 @@ This is my first milestone project and my first website I made while being stude
 6.	As a Returning Visitor, I want to find social links so I can follow the club for any special events.
 
 ### Wireframes 
-- Start  – View
-- Schedule – View
-- Pricing – View
-- Contact – View
+- **Start** - <a href="#" target="_blank">View</a>
+- **Schedule** – <a href="#" target="_blank">View</a>
+- **Pricing** – <a href="#" target="_blank">View</a>
+- **Contact** – <a href="#" target="_blank">View</a>
 
 ## Features
 
@@ -72,11 +72,10 @@ The Contact page features an uplifting **hero-image** and a simple **contact for
 -  When the user sends a message, a conformation text appears in the contact form to indicate the message being sent.
 - Payment buttons linked to pop-up modals, guiding the user on how to pay so that the user can pay directly from the website. 
 - Option to choose Spanish language of the website. 
-- 
 
 ## Technologies Used
 
-Languages Used for this project: HTML5 & CSS3. 
+Languages Used for this project: **HTML5** & **CSS3**. 
 1.	[Bootstrap4](https://getbootstrap.com/): - for making the website responsive on all devices and for the styling. 
 
 2.	[Animate.css](https://animate.style/): - for animating the text boxed at the Start page. 
@@ -152,7 +151,13 @@ When non-valid, there is a red text explaining what needs to be corrected. When 
 - Much time was given to test all the links on the website to make sure everything was working.
 - Family members and friends were asked to view the website on their devices to see if everything was working well and to report any bugs or issues. 
 - The website was tested on various devices such as Desktop, Laptop, Samsung S7 Edge, Huawei P10 and iPhone 11. 
-- Much time was given to test if the responsiveness was working well and looking good on all devices.  
+- Much time was given to test if the responsiveness was working well and looking good on all devices.
+- All code was run throguh the W3C Markup Validation Service and the results can be viewed here: 
+    - index.html - <a href="#" target="_blank">Result</a>
+    - schedule.html - <a href="#" target="_blank">Result</a>
+    - pricing.html - <a href="#" target="_blank">Result</a>
+    - contact.html - <a href="#" target="_blank">Result</a>
+    - style.css - <a href="#" target="_blank">Result</a>
 
 
 ## Deployment
