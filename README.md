@@ -159,6 +159,8 @@ Languages Used for this project: **HTML5** & **CSS3**.
     - **contact.html** - <a href="https://drive.google.com/file/d/1PD7M9EIMC-ts7NmpKxOl0KjzvpvSoKrL/view?usp=sharing" target="_blank">Result</a>
     - **style.css** - <a href="https://drive.google.com/file/d/1AayUSrJIGKFpR-Co9D-wwyNXoD03h-nQ/view?usp=sharing" target="_blank">Result</a>
 
+### Known bugs
+The green div line behind the cards in the Pricing page doesn't appear on Internet Explorer. The page still looks good despite this, so there is no need to spend time fixing it. 
 
 ## Deployment
 
