@@ -30,7 +30,7 @@ This is my first milestone project and my first website I made while being stude
 
 ## Features
 
-Responsive on all device sizes. Each page features a **navigation bar** with **navigation links** on the top and with a **header logo** on the left and a **footer** at the bottom with **social media icons**, **copyright** **contact** and **location information**. Every page except the **Pricing page** has its own **hero-image** at the top to help make the website look beautiful.  
+Responsive on all device sizes. Each page features a **navigation bar** with **navigation links** at the top and a **header logo** on the left. A **footer** at the bottom with **social media icons**, **copyright**, **contact** and **location information**. Every page except the **Pricing page** has its own **hero-image** to help make the website look beautiful.  
 
 #### Start
 There are **4 pages** within the **Start page**.
@@ -58,14 +58,14 @@ The Contact page features an uplifting **hero-image** and a simple **contact for
 - **Navigation Bar**. Clicking the navigation links takes users easily to the website's pages.
 - **Footer Copyright**. To protect copyright.
 - **Footer Social Icons**. Clicking the icons opens a new page with the social platforms that the club uses.
-- **Buttons**. Clicking on the Schedule button takes user to the Schedule page. Clicking on Contact button pops up a contact modal. 
+- **Buttons**. Clicking on the Schedule button takes the user to the Schedule page. Clicking on the Contact button pops up a contact modal. 
 - **Video**. Allows potential students to see the training in full size. 
 - **About Page**. Gives potential trainers enough information without it being too much.
-- **Blockquote**. the quote summarizes the training shortly and poetically to get the potential trainer curious on what the training is about. 
-- **Carousel Gallery**. Allows potential trainers to view the training and to click to the previous image and the next. 
-- **Start link** on the last page. Clicks the user back to the first page on Start. 
+- **Blockquote**. The quote summarizes the training shortly and poetically to get the potential trainer curious about the training. 
+- **Carousel Gallery**. Allows potential trainers to view the gallery and clicking to previous and next image. 
+- **Start link**. Clicks the user back from the bottom of the Start page to the first page. 
 - **Schedule Cards**. Allows potential trainers to view the times and days for training.
-- **Pricing Cards**. Allow potential trainers to understand the pricing.
+- **Pricing Cards**. Allows potential trainers to understand the pricing.
 - **Contact Form & Contact Modal**. Allows potential trainers to easily send a message.
 
 
@@ -154,11 +154,11 @@ When non-valid, there is a red text explaining what needs to be corrected. When 
 - The website was tested on various devices such as Desktop, Laptop, Samsung S7 Edge, Huawei P10 and iPhone 11. 
 - Much time was given to test if the responsiveness was working well and looking good on all devices.
 - All code was run throguh the W3C Markup Validation Service and the results can be viewed here: 
-    - index.html - <a href="#" target="_blank">Result</a>
-    - schedule.html - <a href="#" target="_blank">Result</a>
-    - pricing.html - <a href="#" target="_blank">Result</a>
-    - contact.html - <a href="#" target="_blank">Result</a>
-    - style.css - <a href="#" target="_blank">Result</a>
+    - **index.html** - <a href="#" target="_blank">Result</a>
+    - **schedule.html** - <a href="#" target="_blank">Result</a>
+    - **pricing.html** - <a href="#" target="_blank">Result</a>
+    - **contact.html** - <a href="#" target="_blank">Result</a>
+    - **style.css** - <a href="#" target="_blank">Result</a>
 
 
 ## Deployment
