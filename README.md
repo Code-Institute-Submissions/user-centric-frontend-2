@@ -39,9 +39,9 @@ There are **4 pages** within the **Start page**.
 
 **The second page** - has information about the club, *not too much text to overwhelm the reader* and the text is divided into 4 parts with an **image** in the middle, making the reading more enjoyable.  
 
-**The third page** - has a **video** in the center and a big **blockquote** under it stretching full width, dividing the **video** and the **carousel gallery**.  
+**The third page** - has a **YouTube video** in the center and a big **blockquote** under it stretching full width, dividing the **YouTube video** and the **carousel gallery**.  
 
-**The fourth page** - has a **carousel gallery** in the center. On the bottom right there is a **Start link**. Below is the **footer**. 
+**The fourth page** - has a **carousel gallery** in the center. On the bottom right, there is a **Start link**. Below is the **footer**. 
 	
 #### Schedule
 The Schedule page features a nicely colored **hero-image** and two **cards** in the center, matching the colors of the hero-image. One card for Adult Training and one for Child Training, containing **tables** with days and times displayed clearly. 
@@ -58,9 +58,9 @@ The Contact page features an uplifting **hero-image** and a simple **contact for
 - **Navigation Bar**. Clicking the navigation links takes users easily to the website's pages.
 - **Footer Copyright**. To protect copyright.
 - **Footer Social Icons**. Clicking the icons opens a new page with the social platforms that the club uses.
-- **Buttons**. Clicking on the Schedule button takes the user to the Schedule page. Clicking on the Contact button pops up a contact modal. 
-- **Video**. Allows potential students to see the training in full size. 
-- **About Page**. Gives potential trainers enough information without it being too much.
+- **Call to action Buttons**. Clicking on the Schedule button takes the user to the Schedule page. Clicking on the Contact button pops up a contact modal. 
+- **YouTube Video**. Allows potential students to see the training in full size. 
+- **About Section**. Gives potential trainers enough information without it being too much.
 - **Blockquote**. The quote summarizes the training shortly and poetically to get the potential trainer curious about the training. 
 - **Carousel Gallery**. Allows potential trainers to view the gallery and clicking to previous and next image. 
 - **Start link**. Clicks the user back from the bottom of the Start page to the first page. 
@@ -121,19 +121,17 @@ Languages Used for this project: **HTML5** & **CSS3**.
 
     - The colored schedule and contact button on the Start page, being contained within the slide-in animation, is hard to miss when entering the site. Therefore, the user will find the schedule information easily and can contact the club easily too. The schedule and the contact links are also in the navigation bar. 
 
-    - The user can also view the contact and location information at the bottom of every page in the footer. When scrolling down one page after the Start page, the user directly finds location information. 
+    - The user can also view the contact and location information at the bottom of every page in the footer. When scrolling down a litte on the Start page to the About section, the user immediately finds location information. On medium devices, the image is removed in the about section. On smaller devices, purple borders left and right appears, to make the reading more easy and enjoyable. 
     
     - Within the slide-in animation on the Start page, there is also a text that stands out saying: “the 3 first training sessions are for free”. So then, the user’s priority is no longer to check the pricing. If they want to know more about the pricing, they can just use the navigation bar.
     On small devices, the text on the box is reduced so only its header, the buttons and the text saying: "the 3 first training sessions are for free”, remains.
 
 4.  **As a Returning Visitor, I want to mainly find information about the schedule, location and pricing.**
-    - The directions for schedule and pricing information are clearly shown in the navigation bar. When enterting the pages the user sees nice and clean information about each topic.
-    The green div line in the background of the Pricing page is viewable in medium to large devices to make the page look more stylish, on smaller devices its removed and instead the Pricing cards gets a nice green box-shadow.   
+    - The directions for schedule and pricing information are clearly shown in the navigation bar. When enterting the pages the user sees nice and clean information about each topic. The green div line in the background of the Pricing page is viewable in medium to large devices to make the page look more stylish, on smaller devices its removed and instead the Pricing cards gets a nice green box-shadow.   
 
-    - The direction for the schedule is also shown extra clearly in the colored button at the Start page. 
+    - The direction for the schedule and is also shown extra clearly in the colored button at the Start page. 
 
     - By scrolling down a little from the Start page, the user will find location information in the about section, and at the bottom of every page in the footer.
-    On medium devices, the image is removed in the about section. On smaller devices, purple borders left and right appears, to make the reading more easy and enjoyable. 
 
 5.	**As a Returning Visitor, I want to be able to contact the club easily for questions I have.**
     - On the Start page, the contact button is shown extra clear and the user can easily fill out the form and send a message. The contact form shows whether the user has filled in valid information in order to be able to send the message. 
