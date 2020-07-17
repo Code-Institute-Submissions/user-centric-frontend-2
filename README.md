@@ -107,7 +107,8 @@ Languages Used for this project: **HTML5** & **CSS3**.
     
     - The stunning hero image immediately shows what the website is about. There is a different but similar hero-image that appears on small devices that is well suited for the size. 
  
-    - By scrolling down, the user will learn more about the club when reading the nicely structured and clear text in the about section, and then continuing to the video and gallery. 
+    - By scrolling down a little, the user will learn more about the club when reading the nicely structured and clear text in the about section. Continuing scrolling down, the user sees the video and gallery that are helping to show the traning the club provides clearer. 
+    On medium devices, the image is removed in the about section. On smaller devices, purple borders left and right appears, to make the reading more easy and enjoyable.
 
 2.	**As a First Time Visitor, I want the navigation on the site to be easy to use so I can find the content I am looking for.** 
 
@@ -121,7 +122,7 @@ Languages Used for this project: **HTML5** & **CSS3**.
 
     - The colored schedule and contact button on the Start page, being contained within the slide-in animation, is hard to miss when entering the site. Therefore, the user will find the schedule information easily and can contact the club easily too. The schedule and the contact links are also in the navigation bar. 
 
-    - The user can also view the contact and location information at the bottom of every page in the footer. When scrolling down a litte on the Start page to the About section, the user immediately finds location information. On medium devices, the image is removed in the about section. On smaller devices, purple borders left and right appears, to make the reading more easy and enjoyable. 
+    - The user can also view the contact and location information at the bottom of every page in the footer. When scrolling down a litte on the Start page to the About section, the user immediately finds location information. 
     
     - Within the slide-in animation on the Start page, there is also a text that stands out saying: “the 3 first training sessions are for free”. So then, the user’s priority is no longer to check the pricing. If they want to know more about the pricing, they can just use the navigation bar.
     On small devices, the text on the box is reduced so only its header, the buttons and the text saying: "the 3 first training sessions are for free”, remains.
