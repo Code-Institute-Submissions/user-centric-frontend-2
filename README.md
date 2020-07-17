@@ -22,16 +22,17 @@ This is my first milestone project and my first website I made while being stude
 6.	As a Returning Visitor, I want to find social links so I can follow the club for any special events.
 
 ### Wireframes 
-- **Start** - <a href="#" target="_blank">View</a>
-- **Schedule** – <a href="#" target="_blank">View</a>
-- **Pricing** – <a href="#" target="_blank">View</a>
-- **Contact** – <a href="#" target="_blank">View</a>
+- **Start** - <a href="https://drive.google.com/drive/folders/1iyuxvL_ZAFEqDO9VkWJo4YaO8ZITGsHC?usp=sharing" target="_blank">View</a>
+- **Schedule** - <a href="https://drive.google.com/file/d/1In6ECTOaxtXbwxnb8J0hoQp4NcyYO7VW/view?usp=sharing" target="_blank">View</a>
+- **Pricing** - <a href="https://drive.google.com/file/d/1Xx_QeXkjzbnyu-QvcC_94Coo4mWUTqZ0/view?usp=sharing" target="_blank">View</a>
+- **Contact** - <a href="https://drive.google.com/file/d/1NIb2amdFKpg93ECDoXo9oIdx0zOVa_q9/view?usp=sharing" target="_blank">View</a>
+  
 
 ## Features
 
 Responsive on all device sizes. Each page features a **navigation bar** with **navigation links** on the top and with a **header logo** on the left and a **footer** at the bottom with **social media icons**, **copyright** **contact** and **location information**. Every page except the **Pricing page** has its own **hero-image** at the top to help make the website look beautiful.  
 
-### Start
+#### Start
 There are **4 pages** within the **Start page**.
 
 **The first page** - features an artistic **hero-image**, showing what the website is about. A **box with text** and two colored **call to action buttons** "Schedule & Contact", contained within the box, slides in from the left to catch the user’s attention. Clicking one of the buttons pops up a **contact modal**.  
@@ -42,13 +43,13 @@ There are **4 pages** within the **Start page**.
 
 **The fourth page** - has a **carousel gallery** in the center. On the bottom right there is a **Start link**. Below is the **footer**. 
 	
-### Schedule
+#### Schedule
 The Schedule page features a nicely colored **hero-image** and two **cards** in the center, matching the colors of the hero-image. One card for Adult Training and one for Child Training, containing **tables** with days and times displayed clearly. 
 
-### Pricing 
+#### Pricing 
 The Pricing page features two **cards** in the center, one for Training Fee and the other for The Gym.  Behind the cards there is a background color and a dark green **div line** in the center stretching full width across the page. 
 
-### Contact 
+#### Contact 
 The Contact page features an uplifting **hero-image** and a simple **contact form** with Name, Email and Message inputs, and a **call to action button**. The background color of the contact form matches the flowers on the hero-image. 
 
  
