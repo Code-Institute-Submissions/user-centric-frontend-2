@@ -70,32 +70,32 @@ The Contact page features an uplifting **hero-image** and a simple **contact for
 
 
 ### Features Left to Implement
--  When the user sends a message, a conformation text appears in the contact form to indicate the message being sent.
+-  When the user sends a message, a conformation text appears in the contact form to indicate that the message has been sent.
 - Payment buttons linked to pop-up modals, guiding the user on how to pay so that the user can pay directly from the website. 
 - Option to choose Spanish language of the website. 
 
 ## Technologies Used
 
 Languages Used for this project: **HTML5** & **CSS3**. 
-1.	[Bootstrap4](https://getbootstrap.com/): - for making the website responsive on all devices and for the styling. 
+1.	[Bootstrap4](https://getbootstrap.com/): – for making the website responsive on all devices and for the styling. 
 
-2.	[Animate.css](https://animate.style/): - for animating the text boxed at the Start page. 
+2.	[Animate.css](https://animate.style/): – for animating the text boxed on the Start page. 
 
-3.	[Google Fonts](https://fonts.google.com/): - were used as fonts on the website. 
+3.	[Google Fonts](https://fonts.google.com/): – were used as fonts on the website. 
 
-4.	[Font Awesome](https://fontawesome.com/): -  icons were used for aesthetics and enhancing the UX.
+4.	[Font Awesome](https://fontawesome.com/): – icons were used for aesthetics and enhancing the UX.
 
-5.	[Git](https://git-scm.com/): - was used for pushing the project’s code to GitHub through version control and Git committing. 
+5.	[Git](https://git-scm.com/): – was used for pushing the project’s code to GitHub through version control and Git committing. 
 
-6.	[GitHub](https://github.com/): - is used to store the project’s code.
+6.	[GitHub](https://github.com/): – is used to store the project’s code.
 
-7.	[Draw.io](https://app.diagrams.net/): - was used to create and design the wireframes. Draw.io was also used to edit the image on the About page.
+7.	[Draw.io](https://app.diagrams.net/): – was used to create and design the wireframes. Draw.io was also used to edit the image on the About page.
 
-8.	[jQuery & Popper.js](https://getbootstrap.com/docs/4.5/getting-started/introduction/): - that came with Bootstrap were used for the responsive navbar and contact modal.
+8.	[jQuery & Popper.js](https://getbootstrap.com/docs/4.5/getting-started/introduction/): – that came with Bootstrap were used for the responsive navbar and contact modal.
 
-9.	[Bootstrap Javascript for validation](https://getbootstrap.com/docs/4.0/components/forms/#validation): that came from the Bootstrap site, was used to validate the contact forms.
+9.	[Bootstrap Javascript for validation](https://getbootstrap.com/docs/4.0/components/forms/#validation): – that came from the Bootstrap site, was used to validate the contact forms.
 
-10.	[AutoPrefixer](https://autoprefixer.github.io/): – was used to make sure the css code is valid for all browsers.
+10.	[AutoPrefixer](https://autoprefixer.github.io/): – was used to make sure the CSS code is valid for all browsers.
 
 
 
@@ -103,7 +103,7 @@ Languages Used for this project: **HTML5** & **CSS3**.
 
 ### Testing User stories from UX section: 
 1.	**As a First Time Visitor, I want the purpose of the site to be clear and the information about the club easy to understand and read.**
-    - When visiting the website, the user is welcomed by a clean, easy to read and easy to use navigation bar with a header logo on the left. A hero image covers the whole page. From the left, some text in a box with two buttons, "Schedule and Contact", slides in and gives the user the most interesting information about the club. 
+    - When visiting the website, the user is welcomed by a clean, easy to read and easy to use navigation bar with a header logo on the left. A hero image covers the whole page. From the left, some text in a box with two colored buttons, "Schedule and Contact", slides in and gives the user the most interesting information about the club. 
     
     - The stunning hero image immediately shows what the website is about. There is a different but similar hero-image that appears on small devices that is well suited for the size. 
  
@@ -111,7 +111,7 @@ Languages Used for this project: **HTML5** & **CSS3**.
 
 2.	**As a First Time Visitor, I want the navigation on the site to be easy to use so I can find the content I am looking for.** 
 
-    - The website has a navigation bar at the top in every page clearly visible with links describing which page they lead to so that the user never feels lost. On some phones, the navigation button is not clear in contrast to the hero-image, so to fix that a background color to the button is added, same with the navigation links, a text-shadow is put to make them more clear.
+    - The website has a navigation bar at the top in every page clearly visible with links describing which page they lead to so that the user never feels lost. On some phones, the navigation button is not clear in contrast to the hero-image. To fix that, a background color to the button is added, same with the navigation links, a text-shadow is put to make them more clear.
     
     - After scrolling down to the bottom of the Start page, after the 4 pages, there is a link that redirects the user to the first page, so that the user smoothly can get back to where they started. 
     
@@ -119,27 +119,27 @@ Languages Used for this project: **HTML5** & **CSS3**.
 
 3.	**As a First Time Visitor, I want to easily find schedule, pricing, location and contact information.** 
 
-    - The colored schedule and contact button on the Start page, being contained within the slide-in animation, is hard to miss when entering the site. So, the user will find the schedule easy and can contact the club easy too. The schedule and contact links are also in the navigation bar. 
+    - The colored schedule and contact button on the Start page, being contained within the slide-in animation, is hard to miss when entering the site. Therefore, the user will find the schedule information easily and can contact the club easily too. The schedule and the contact links are also in the navigation bar. 
 
     - The user can also view the contact and location information at the bottom of every page in the footer. When scrolling down one page after the Start page, the user directly finds location information. 
     
-    - Within the slide-in animation on the Start page, there is also a text that stands out saying: “the 3 first training sessions are for free”. So that the user’s priority is no longer to check the pricing. If they want to know more about pricing, they just use the navigation bar that is cleary visible aswell.
-    On small devices, the text on the box is reduced so only the header, the buttons and the text saying: "the 3 first training sessions are for free”, remains.
+    - Within the slide-in animation on the Start page, there is also a text that stands out saying: “the 3 first training sessions are for free”. So then, the user’s priority is no longer to check the pricing. If they want to know more about the pricing, they can just use the navigation bar.
+    On small devices, the text on the box is reduced so only its header, the buttons and the text saying: "the 3 first training sessions are for free”, remains.
 
-4.  **As a Returning Visitor, I want to mainly find information about schedule, location and pricing.**
+4.  **As a Returning Visitor, I want to mainly find information about the schedule, location and pricing.**
     - The directions for schedule and pricing information are clearly shown in the navigation bar. When enterting the pages the user sees nice and clean information about each topic.
     The green div line in the background of the Pricing page is viewable in medium to large devices to make the page look more stylish, on smaller devices its removed and instead the Pricing cards gets a nice green box-shadow.   
 
-    - The direction for schedule is also shown extra clearly in the colored button at the Start page. 
+    - The direction for the schedule is also shown extra clearly in the colored button at the Start page. 
 
-    - Only scrolling down a little from the Start page, the user will find location information in the about section, and at the bottom of every page in the footer.
-    On medium devices the image is removed in the about section and on smaller devices,**purple borders** left and right appears, to make the reading more easy and enjoyable. 
+    - By scrolling down a little from the Start page, the user will find location information in the about section, and at the bottom of every page in the footer.
+    On medium devices, the image is removed in the about section. On smaller devices, purple borders left and right appears, to make the reading more easy and enjoyable. 
 
 5.	**As a Returning Visitor, I want to be able to contact the club easily for questions I have.**
-    - In the navigation bar, the contact link is shown clear.
-   
     - On the Start page, the contact button is shown extra clear and the user can easily fill out the form and send a message. The contact form shows whether the user has filled in valid information in order to be able to send the message. 
-When non-valid, there is a red text explaining what needs to be corrected. When the text is correct a green border around the input is shown and the red text is removed. 
+        When non-valid, there is a red text explaining what needs to be corrected. When the text is correct a green border around the input is shown and the red text is removed. 
+
+    - In the navigation bar, the contact link to the Contact page is shown clear. When entering the page the user sees a simple, clear and easy to use contact form with validation, same as in the contact modal, to further assist the user.
     
     - At the bottom of every page in the footer, there is contact information shown clearly. 
 
@@ -164,7 +164,7 @@ When non-valid, there is a red text explaining what needs to be corrected. When 
 ## Deployment
 
 ### The project was deployed to GitHub Pages by executing these steps:  
-1.	Log into GitHub, then locate the repository named: “danikrs/user-centric-frontend”.
+1.	Log into GitHub, then locate the repository named: **danikrs/user-centric-frontend**.
 2.	Under the repository name in the menu, select “Settings”.
 3.	At the Settings page, scroll down to the “GitHub Pages” section.
 4.	Click the drop-down menu named “None” under “Source” and select “Master Branch”. 
@@ -172,10 +172,10 @@ When non-valid, there is a red text explaining what needs to be corrected. When 
 6.	Scroll back down to the “GitHub Pages” section to retrieve the published site link.
 
 ### How to clone and run this project locally: 
-1.	First log in to GitHub, then go into the project’s repository by clicking this link GitHub Repository
+1.	First log in to GitHub, then go into the project’s repository by clicking this link [GitHub Repository](https://github.com/danikrs/user-centric-frontend)
 2.	Under the repository name, click the green "Code" button.
 3.	Then choose "Clone with HTTPS" and copy the link.
-4.	Open Git Bash in your local IDE
+4.	Open Git Bash in your local IDE.
 5.	Change the current working directory to the location where you want the cloned directory to be made.
 6.	Type git clone, and then paste the URL you copied in Step 3.
 ```console
@@ -203,7 +203,7 @@ Some text on the Start page and Pricing page was used from my previous training 
 The text was translated to English and then edited. 
 
 ### Media
-Images were found in Ecosia with its search engine. 
+Images were found in Ecosia by using the search engine. 
 
 ### Acknowledgements
 
