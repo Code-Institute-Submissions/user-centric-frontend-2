@@ -153,11 +153,11 @@ Languages Used for this project: **HTML5** & **CSS3**.
 - The website was tested on various devices such as Desktop, Laptop, Samsung S7 Edge, Huawei P10 and iPhone 11. 
 - Much time was given to test if the responsiveness was working well and looking good on all devices.
 - All code was run throguh the W3C Markup Validation Service and the results can be viewed here: 
-    - **index.html** - <a href="#" target="_blank">Result</a>
-    - **schedule.html** - <a href="#" target="_blank">Result</a>
-    - **pricing.html** - <a href="#" target="_blank">Result</a>
-    - **contact.html** - <a href="#" target="_blank">Result</a>
-    - **style.css** - <a href="#" target="_blank">Result</a>
+    - **index.html** - <a href="https://drive.google.com/file/d/1qOM2Z1H1CFu2kmx42QaNlPfZdzEJ6sXS/view?usp=sharing" target="_blank">Result</a>
+    - **schedule.html** - <a href="https://drive.google.com/file/d/1i-Qpyt_sfO8ZSVWTsq_EcyQzAYaS9bNP/view?usp=sharing" target="_blank">Result</a>
+    - **pricing.html** - <a href="https://drive.google.com/file/d/1c1JL-6PsYdsnkSXOjaLeNDRlUeWDykLA/view?usp=sharing" target="_blank">Result</a>
+    - **contact.html** - <a href="https://drive.google.com/file/d/1PD7M9EIMC-ts7NmpKxOl0KjzvpvSoKrL/view?usp=sharing" target="_blank">Result</a>
+    - **style.css** - <a href="https://drive.google.com/file/d/1AayUSrJIGKFpR-Co9D-wwyNXoD03h-nQ/view?usp=sharing" target="_blank">Result</a>
 
 
 ## Deployment
