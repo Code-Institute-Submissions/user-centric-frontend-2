@@ -34,22 +34,22 @@ Responsive on all device sizes. Each page features a **navigation bar** with **n
 ### Start
 There are **4 pages** within the **Start page**.
 
-**The first page** - features an artistic **hero-image**, showing what the website is about. A **box with text** and **two buttons** "Schedule & Contact", contained within the box, slides in from the left to catch the user’s attention. Clicking one of the buttons pops up a **contact modal**.  
+**The first page** - features an artistic **hero-image**, showing what the website is about. A **box with text** and two colored **call to action buttons** "Schedule & Contact", contained within the box, slides in from the left to catch the user’s attention. Clicking one of the buttons pops up a **contact modal**.  
 
 **The second page** - has information about the club, *not too much text to overwhelm the reader* and the text is divided into 4 parts with an **image** in the middle, making the reading more enjoyable.  
 
-**The third page** - has a **video** in the center and a **big blockquote** under it stretching full width, dividing the **video** and the **gallery**.  
+**The third page** - has a **video** in the center and a big **blockquote** under it stretching full width, dividing the **video** and the **carousel gallery**.  
 
-**The fourth page** - has a **slideshow gallery** in the center. On the bottom right there is a **Start link**. Below is the **footer**. 
+**The fourth page** - has a **carousel gallery** in the center. On the bottom right there is a **Start link**. Below is the **footer**. 
 	
 ### Schedule
-The Schedule page features a nicely colored **hero-image** and **two cards** in the center, matching the colors of the hero-image. One card for Adult Training and one for Child Training, containing **tables** with days and times displayed clearly. 
+The Schedule page features a nicely colored **hero-image** and two **cards** in the center, matching the colors of the hero-image. One card for Adult Training and one for Child Training, containing **tables** with days and times displayed clearly. 
 
 ### Pricing 
-The Pricing page features **two cards** in the center, one for Training Fee and the other for The Gym.  Behind the cards there is a background color and a dark **green div line** in the center stretching full width across the page. 
+The Pricing page features two **cards** in the center, one for Training Fee and the other for The Gym.  Behind the cards there is a background color and a dark green **div line** in the center stretching full width across the page. 
 
 ### Contact 
-The Contact page features an uplifting **hero-image** and a simple **contact form** with Name, Email and Message inputs, and a **send button**. The background color of the contact form matches the flowers on the hero-image. 
+The Contact page features an uplifting **hero-image** and a simple **contact form** with Name, Email and Message inputs, and a **call to action button**. The background color of the contact form matches the flowers on the hero-image. 
 
  
 ### Existing Features
@@ -61,7 +61,7 @@ The Contact page features an uplifting **hero-image** and a simple **contact for
 - **Video**. Allows potential students to see the training in full size. 
 - **About Page**. Gives potential trainers enough information without it being too much.
 - **Blockquote**. the quote summarizes the training shortly and poetically to get the potential trainer curious on what the training is about. 
-- **Gallery with slide controls**. Allows potential trainers to view the training and to click to the previous image and the next. 
+- **Carousel Gallery**. Allows potential trainers to view the training and to click to the previous image and the next. 
 - **Start link** on the last page. Clicks the user back to the first page on Start. 
 - **Schedule Cards**. Allows potential trainers to view the times and days for training.
 - **Pricing Cards**. Allow potential trainers to understand the pricing.
@@ -178,7 +178,7 @@ When non-valid, there is a red text explaining what needs to be corrected. When 
 5.	Change the current working directory to the location where you want the cloned directory to be made.
 6.	Type git clone, and then paste the URL you copied in Step 3.
 ```console
-git clone https://github.com/USERNAME/REPOSITORY
+git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 ```
 7.	Press Enter. Your local clone is now created.
 
@@ -198,7 +198,7 @@ For more information about how to clone a repository click [here](https://docs.g
 
 
 ### Content
-Some text on the Start page and Pricing page was used from my previous training club's [site](http://aikidomalmo.se/).
+Some text on the Start page and Pricing page was used from my previous training club's site [Aikido Malmo Meiseikai](http://aikidomalmo.se/).
 The text was translated to English and then edited. 
 
 ### Media
