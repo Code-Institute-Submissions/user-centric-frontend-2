@@ -77,25 +77,25 @@ The Contact page features an uplifting **hero-image** and a simple **contact for
 ## Technologies Used
 
 Languages Used for this project: HTML5 & CSS3. 
-1.	Bootstrap4: - for making the website responsive on all devices and for the styling. 
+1.	[Bootstrap4](https://getbootstrap.com/): - for making the website responsive on all devices and for the styling. 
 
-2.	Animate.css - for animating the text boxed at the Start page. 
+2.	[Animate.css](https://animate.style/): - for animating the text boxed at the Start page. 
 
-3.	Google Fonts: - were used as fonts on the website. 
+3.	[Google Fonts](https://fonts.google.com/): - were used as fonts on the website. 
 
-4.	Font Awesome: -  icons were used for aesthetics and enhancing the UX.
+4.	[Font Awesome](https://fontawesome.com/): -  icons were used for aesthetics and enhancing the UX.
 
-5.	Git -was used for pushing the project’s code to GitHub through version control and Git committing. 
+5.	[Git](https://git-scm.com/): - was used for pushing the project’s code to GitHub through version control and Git committing. 
 
-6.	GitHub: - is used to store the project’s code.
+6.	[GitHub](https://github.com/): - is used to store the project’s code.
 
-7.	Draw.io: - was used to create and design the wireframes. Draw.io was also used to edit the image on the About page.
+7.	[Draw.io](https://app.diagrams.net/): - was used to create and design the wireframes. Draw.io was also used to edit the image on the About page.
 
-8.	jQuery & Popper.js: - that came with Bootstrap were used for the responsive navbar and contact modal.
+8.	[jQuery & Popper.js](https://getbootstrap.com/docs/4.5/getting-started/introduction/): - that came with Bootstrap were used for the responsive navbar and contact modal.
 
-9.	Bootstrap Javascript for validation: came from the Bootstrap site: https://getbootstrap.com/docs/4.0/components/forms/#validation. Was used to validate the contact forms.
+9.	[Bootstrap Javascript for validation](https://getbootstrap.com/docs/4.0/components/forms/#validation): that came from the Bootstrap site, was used to validate the contact forms.
 
-10.	AutoPrefixer – was used to make sure the css code is valid for all browsers.
+10.	[AutoPrefixer](https://autoprefixer.github.io/): – was used to make sure the css code is valid for all browsers.
 
 
 
