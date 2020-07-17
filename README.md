@@ -35,22 +35,22 @@ Responsive on all device sizes. Each page features a **navigation bar** with **n
 #### Start
 There are **4 pages** within the **Start page**.
 
-**The first page** - features an artistic hero-image, showing what the website is about. There is a different but similar hero-image for small devices and another for medium to large devices, so that it looks good on each size. A **box with text** and **two buttons** contained within it, slides in from the left to catch the user’s attention. Clicking one of the buttons pops up a **contact modal**. On a small device, the text on the box is reduced. On some phones, the **navigation button** is not clear in contrast to the hero-image, so to fix that a background color to the button is added, same with the **navigation links**, a text-shadow is put to make them more clear. 
+**The first page** - features an artistic **hero-image**, showing what the website is about. There is a different but similar hero-image for small devices and another for medium to large devices, so that it looks good on each size. A **box with text** and **two buttons** "Schedule & Contact", contained within the box, slides in from the left to catch the user’s attention. Clicking one of the buttons pops up a **contact modal**. On a small device, the text on the box is reduced.  
 
-**The second page** - has information about the club, *not too much text to overwhelm the reader* and the text is divided into 4 parts with an image in the middle, making the reading more enjoyable. On medium devices the image is removed and on smaller devices, purple borders left and right appears. 
+**The second page** - has information about the club, *not too much text to overwhelm the reader* and the text is divided into 4 parts with an **image** in the middle, making the reading more enjoyable. On medium devices the image is removed and on smaller devices,**purple borders** left and right appears. 
 
-**The third page** - has a **video** in the center and a **big quote** under it stretching full width, dividing the **video** and the **gallery**.  
+**The third page** - has a **video** in the center and a **big blockquote** under it stretching full width, dividing the **video** and the **gallery**.  
 
 **The fourth page** - has a **slideshow gallery** in the center. On the bottom right there is a **Start link**. Below is the **footer**. 
 	
 #### Schedule
-The Schedule page features a nicely colored hero-image and **two cards** in the center, matching the colors of the hero-image. One card for Adult Training and one for Child Training, containing days and times displayed clearly. 
+The Schedule page features a nicely colored **hero-image** and **two cards** in the center, matching the colors of the hero-image. One card for Adult Training and one for Child Training, containing **tables** with days and times displayed clearly. 
 
 #### Pricing 
-The Pricing page features **two cards** in the center, one for Training Fee and the other for The Gym.  Behind the cards there is a background color and a dark green line in the center stretching full width across the page. The line is viewable in medium to large devices to make the page look more stylish.
+The Pricing page features **two cards** in the center, one for Training Fee and the other for The Gym.  Behind the cards there is a background color and a dark **green div line** in the center stretching full width across the page. The line is viewable in medium to large devices to make the page look more stylish.
 
 #### Contact 
-The Contact page features an uplifting hero-image and a simple **contact form** with Name, Email and Message inputs, and a **send button**. The background color of the contact form matches the flowers on the hero-image. 
+The Contact page features an uplifting **hero-image** and a simple **contact form** with Name, Email and Message inputs, and a **send button**. The background color of the contact form matches the flowers on the hero-image. 
 
  
 ### Existing Features
