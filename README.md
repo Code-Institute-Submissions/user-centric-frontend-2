@@ -21,6 +21,38 @@ This is my first milestone project and my first website I made while being stude
 5.	As a Returning Visitor, I want to be able to contact the club easily for questions I have.
 6.	As a Returning Visitor, I want to find social links so I can follow the club for any special events.
 
+### Design
+Most of the design was inspired by the carefully picked hero-images that are displayed throughout the website.
+The design is kept simple, consistent, clean, structured and spacious while keeping to website conventions so that the user
+can quickly find things. The website is subtle and at the same time eye-catching. 
+
+#### Color Scheme
+The most common colors used throughout the site is white, black, gray and purple. The colors of the hero-image on Start is black, white 
+and gray, which suits well for the aikido theme since you practise with a black hakama and a white training suit.
+The purple was inspired by the nicley colored hero-image on the Schedule page, and the color of the cards there matches the image. 
+Purple is also added to the Start page for keeping a "red" line(in this case a purple line) throught the website, to keep consistency with 
+the colors. The contact form in the Contact page, matches that the pink flowers and the red details on the house displayed in the
+page's hero-image.   
+
+#### Typography
+Lato and Oswald fonts are used as fonts for the website because they go well together, are easy to read and 
+for their simplistic yet powerful look. Oswald is used becasue they make a nice heading and Lato as paragragh text. 
+
+#### Images
+Much importance is given to the images for making the website look beautiful and give a positive feeling to the user. 
+The user then feels good and want to stay longer to explore the website further. The hero-image on start is artistic, 
+stunning, intriguing and at the same time it shows what the website is about. The hero-image on the Schedule is also a favorite
+with its subtle yet beautiful coloring. 
+
+#### Text   
+For making the reading easy, the text is nicely divided into parts and sections, while keeping consistency. 
+There is never *not too much text to overload the reader* and only the most essential and important text is displayed. 
+The text also has icons to enhance the UX experience and the aesthetics. Around the text there is sometimes colored boarders
+matching the colored icons. In the About section, the text is nicely divided into 4 parts with an image in the middle matching the 
+colors on the first hero-images's page, the image itself is containing a styled Japanese text with the meaning Aikido, which makes the 
+reading more enjoyable.  
+
+
 ### Wireframes 
 - **Start** - <a href="https://drive.google.com/drive/folders/1iyuxvL_ZAFEqDO9VkWJo4YaO8ZITGsHC?usp=sharing" target="_blank">View</a>
 - **Schedule** - <a href="https://drive.google.com/file/d/1In6ECTOaxtXbwxnb8J0hoQp4NcyYO7VW/view?usp=sharing" target="_blank">View</a>
@@ -37,20 +69,20 @@ There are **4 pages** within the **Start page**.
 
 **The first page** - features an artistic **hero-image**, showing what the website is about. A **box with text** and two colored **call to action buttons** "Schedule & Contact", contained within the box, slides in from the left to catch the user’s attention. Clicking one of the buttons pops up a **contact modal**.  
 
-**The second page** - has information about the club, *not too much text to overwhelm the reader* and the text is divided into 4 parts with an **image** in the middle, making the reading more enjoyable.  
+**The second page** - has information about the club and the text is divided into 4 parts with an **image** in the middle.   
 
 **The third page** - has a **YouTube video** in the center and a big **blockquote** under it stretching full width, dividing the **YouTube video** and the **carousel gallery**.  
 
 **The fourth page** - has a **carousel gallery** in the center. On the bottom right, there is a **Start link**. Below is the **footer**. 
 	
 #### Schedule
-The Schedule page features a nicely colored **hero-image** and two **cards** in the center, matching the colors of the hero-image. One card for Adult Training and one for Child Training, containing **tables** with days and times displayed clearly. 
+The Schedule page features a nicely colored **hero-image** and two **cards** in the center. One card for Adult Training and one for Child Training, containing **tables** with days and times displayed clearly. 
 
 #### Pricing 
 The Pricing page features two **cards** in the center, one for Training Fee and the other for The Gym.  Behind the cards there is a background color and a dark green **div line** in the center stretching full width across the page. 
 
 #### Contact 
-The Contact page features an uplifting **hero-image** and a simple **contact form** with Name, Email and Message inputs, and a **call to action button**. The background color of the contact form matches the flowers on the hero-image. 
+The Contact page features an uplifting **hero-image** and a simple **contact form** with Name, Email and Message inputs, and a **call to action button**.  
 
  
 ### Existing Features
