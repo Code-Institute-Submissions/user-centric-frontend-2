@@ -10,7 +10,7 @@ This is my first milestone project and my first website I made while being stude
 </h1>
 
 
-## UX
+## UX (User Experience)
 
 ### User stories
 
@@ -27,13 +27,13 @@ The design is kept simple, consistent, clean, structured and spacious while keep
 can quickly find things. The website is subtle and at the same time eye-catching. 
 
 #### Color Scheme
-- The most common colors used throughout the site is white, black, gray and purple. **
+- The most common colors used throughout the site is white, black, gray and purple. 
     - The colors of the hero-image on Start is black, white and gray, which suits well for the aikido theme since you practise with a 
     black hakama and a white training suit.
     - The purple was inspired by the nicley colored hero-image on the Schedule page, and the color of the cards there matches the image. 
     Purple is also added to the Start page here and there, for keeping a "red" line(in this case a purple line) throught the website, to keep 
     consistency with the colors. 
-    - The contact form in the Contact page, matches that the pink flowers and the red details on the house displayed in the
+    - The contact form in the Contact page, matches the pink flowers and the red details on the house displayed in the
     page's hero-image.   
 
 #### Typography
