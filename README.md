@@ -27,28 +27,31 @@ The design is kept simple, consistent, clean, structured and spacious while keep
 can quickly find things. The website is subtle and at the same time eye-catching. 
 
 #### Color Scheme
-The most common colors used throughout the site is white, black, gray and purple. The colors of the hero-image on Start is black, white 
-and gray, which suits well for the aikido theme since you practise with a black hakama and a white training suit.
-The purple was inspired by the nicley colored hero-image on the Schedule page, and the color of the cards there matches the image. 
-Purple is also added to the Start page for keeping a "red" line(in this case a purple line) throught the website, to keep consistency with 
-the colors. The contact form in the Contact page, matches that the pink flowers and the red details on the house displayed in the
-page's hero-image.   
+- The most common colors used throughout the site is white, black, gray and purple. **
+    - The colors of the hero-image on Start is black, white and gray, which suits well for the aikido theme since you practise with a 
+    black hakama and a white training suit.
+    - The purple was inspired by the nicley colored hero-image on the Schedule page, and the color of the cards there matches the image. 
+    Purple is also added to the Start page here and there, for keeping a "red" line(in this case a purple line) throught the website, to keep 
+    consistency with the colors. 
+    - The contact form in the Contact page, matches that the pink flowers and the red details on the house displayed in the
+    page's hero-image.   
 
 #### Typography
 Lato and Oswald fonts are used as fonts for the website because they go well together, are easy to read and 
-for their simplistic yet powerful look. Oswald is used becasue they make a nice heading and Lato as paragragh text. 
+for their simplistic yet powerful look. Oswald is used becasue they make a nice heading and Lato as paragraph text. 
 
 #### Images
-Much importance is given to the images for making the website look beautiful and give a positive feeling to the user. 
-The user then feels good and want to stay longer to explore the website further. The hero-image on start is artistic, 
-stunning, intriguing and at the same time it shows what the website is about. The hero-image on the Schedule is also a favorite
-with its subtle yet beautiful coloring. 
+- Much importance is given to the images for making the website look beautiful and give a positive feeling to the user. 
+The user then feels good and want to stay longer to explore the website further. 
+    - The hero-image on start is artistic, stunning, intriguing and at the same time it shows what the website is about. 
+    - The hero-image on the Schedule is also a favorite with its subtle yet beautiful coloring. 
 
 #### Text   
-For making the reading easy, the text is nicely divided into parts and sections, while keeping consistency. 
+- For making the reading easy, the text is nicely divided into parts and sections, while keeping consistency. 
 There is never *not too much text to overload the reader* and only the most essential and important text is displayed. 
 The text also has icons to enhance the UX experience and the aesthetics. Around the text there is sometimes colored boarders
-matching the colored icons. In the About section, the text is nicely divided into 4 parts with an image in the middle matching the 
+matching the colored icons. 
+    - In the About section, the text is nicely divided into 4 parts with an image in the middle matching the 
 colors on the first hero-images's page, the image itself is containing a styled Japanese text with the meaning Aikido, which makes the 
 reading more enjoyable.  
 
