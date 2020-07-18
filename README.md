@@ -42,7 +42,7 @@ for their simplistic yet powerful look. Oswald is used becasue they make a nice 
 
 #### Images
 - Much importance is given to the images for making the website look beautiful and give a positive feeling to the user. 
-The user then feels good and want to stay longer to explore the website further. 
+The user then feels good and wants to stay longer to explore the website further. 
     - The hero-image on start is artistic, stunning, intriguing and at the same time it shows what the website is about. 
     - The hero-image on the Schedule is also a favorite with its subtle yet beautiful coloring. 
 
